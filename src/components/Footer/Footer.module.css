@@ -1,0 +1,25 @@
+.footer_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--color-blue);
+  color: var(--color-skyblue);
+  padding: 40px 0;
+  gap: 2rem;
+  text-align: center;
+}
+
+.footer_container p {
+  color: var(--color-gray);
+}
+
+.footer_logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.links_container svg {
+  margin: .5rem;
+}

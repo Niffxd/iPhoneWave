@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Reparaciones",
+    "path": "/reparaciones",
+    "page": "Repairs"
+  },
+  {
+    "category": "Accesorios",
+    "path": "/accesorios",
+    "page": "Accesories"
+  },
+  {
+    "category": "Equipos",
+    "path": "/equipos",
+    "page": "Devices"
+  },
+  {
+    "category": "Sobre Nosotros",
+    "path": "/nosotros",
+    "page": "AboutUs"
+  },
+  {
+    "category": "Contacto",
+    "path": "/contacto",
+    "page": "Contact"
+  }
+]

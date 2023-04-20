@@ -1,0 +1,34 @@
+.not_found_container {
+  min-height: calc(45vh);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-gray);
+  color: var(--color-blue);
+  padding: 3rem 0;
+}
+
+.not_found_container > h1 {
+  margin-bottom: 2rem;
+}
+
+.menu_links {
+  min-width: 320px;
+  max-width: 500px;
+  text-align: center;
+  list-style: none;
+  background-color: var(--color-blue);
+  padding: 10px 0;
+  border-radius: 2rem;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-gray);
+}
+
+.link > li {
+  font-size: 1.1rem;
+  margin: 20px 0;
+}

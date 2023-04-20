@@ -1,0 +1,102 @@
+[
+  {
+    "category": "Fundas",
+    "type": [
+      {
+        "name": "Silicona",
+        "description": "Fundas de múltiples colores hechas de silicona, un material que amortigua los golpes.",
+        "image": "/covers/SiliconCase.png"
+      },
+      {
+        "name": "Walden",
+        "description": "Protege tu iPhone con materiales nobles y de máxima calidad para dar vida a un universo de detalles únicos e inimitables.",
+        "image": "/covers/Walden.png"
+      },
+      {
+        "name": "Diseño",
+        "description": "Diversión para tu estilo. Múltiples diseños, colores y formas de llevar un look único.",
+        "image": "/covers/Design.png"
+      }
+    ]
+  },
+  {
+    "category": "Cargadores",
+    "type": [
+      {
+        "name": "Cables",
+        "description": "Carga tu iPhone con cables originales y de la mejor calidad",
+        "image": "/accesories/Lightning.png"
+      },
+      {
+        "name": "Cabezales",
+        "description": "Cuida tu equipo cargándolo con fuentes originales y de excelente calidad",
+        "image": "/accesories/Source20W.png"
+      },
+      {
+        "name": "Inalámbricos",
+        "description": "Olvidate de los cables y viví una experiencia mucho más cómoda con los cargadores inalámbricos MagSafe de Apple.",
+        "image": "/accesories/MagSafe_iPhone.png"
+      }
+    ]
+  },
+  {
+    "category": "Protecciones",
+    "type": [
+      {
+        "name": "Templado",
+        "description": "Protege tu iPhone con un templado de máxima calidad y protección.",
+        "image": "/covers/Temp.png"
+      },
+      {
+        "name": "Templado 9D",
+        "description": "Cubre completamente todos los bordes del celular, el 9D aguanta caídas y rayones.",
+        "image": "/covers/Temp9D.png"
+      },
+      {
+        "name": "Hidrogel",
+        "description": "Protege tu iPhone de cualquier caída o rasguño. Está compuesto por silicona o resina líquida.",
+        "image": "/covers/Hidrogel.png"
+      }
+    ]
+  },
+  {
+    "category": "Auriculares",
+    "type": [
+      {
+        "name": "AirPods Pro",
+        "description": "Los AirPods Pro ofrecen cancelación de ruido para que disfrutes lo que estás escuchando sin distracciones.",
+        "image": "/accesories/AirPods.png"
+      },
+      {
+        "name": "EarPods",
+        "description": "Los EarPods están equipados con un micrófono, botones de volumen y un botón central.",
+        "image": "/accesories/EarPods.png"
+      },
+      {
+        "name": "Haylou GT7",
+        "description": "Auriculares Bluetooth Bluetooth 5.2 HD, sonido estéreo, cancelación de ruido de llamada clara AI.",
+        "image": "/accesories/Haylou.png"
+      }
+    ]
+  },
+  {
+    "category": "Otros",
+    "type": [
+      {
+        "name": "Soportes",
+        "description": "Para que no te distraigas mientras manejás y puedas ver bien tu GPS.",
+        "image": "/covers/holder.png"
+      },
+      {
+        "name": "Correas Apple Watch",
+        "description": "Modela tu reloj con las mejores correas de silicona, metal o deportivas.",
+        "image": "/covers/Stripes.png"
+      },
+      {
+        "name": "Come Cables",
+        "description": " Diseñados para evitar que el cable de carga del celular se dañe a doblarse con divertidos personajes.",
+        "image": "/covers/ComeCable.png"
+      }
+    ]
+  }
+]

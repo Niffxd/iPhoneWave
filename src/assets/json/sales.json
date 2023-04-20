@@ -1,0 +1,21 @@
+{
+  "category": "Equipos",
+  "devices": [
+    {
+      "model": "iPhone 14",
+      "image": "/sales/iphone14.jpg"
+    },
+    {
+      "model": "iPhone 14 Pro",
+      "image": "/sales/iphone14pro.jpg"
+    },
+    {
+      "model": "iPhone 13",
+      "image": "/sales/iphone13.jpg"
+    },
+    {
+      "model": "iPhone 11",
+      "image": "/sales/iphone11.jpg"
+    }
+  ]
+}

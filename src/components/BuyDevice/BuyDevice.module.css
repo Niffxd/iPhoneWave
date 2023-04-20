@@ -1,0 +1,35 @@
+.device_content {
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.device_content > h1 {
+  padding: 2rem 0 1rem;
+}
+
+.more_help {
+  align-self: center;
+  text-align: center;
+  padding: .5rem 1rem;
+  border-radius: 1rem;
+  color: var(--color-gray);
+  background-color: var(--color-blue);
+}
+
+#device-1 > h1 {
+  color: var(--color-gray);
+}
+
+#device-1 > a {
+  color: var(--color-blue);
+  background-color: var(--color-gray);
+}
+
+#device-2 > h1 {
+  color: var(--color-gray);
+}

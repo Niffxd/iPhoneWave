@@ -1,0 +1,26 @@
+[{
+    "icon": "screen",
+    "path": "./icons/screen.svg",
+    "text": "Pantalla"
+  },{
+    "icon": "charge",
+    "path": "./icons/charge.svg",
+    "text": "Batería"
+  },{
+    "icon": "sound",
+    "path": "./icons/sound.svg",
+    "text": "Audio"
+  },{
+    "icon": "microphone",
+    "path": "./icons/microphone.svg",
+    "text": "Micrófono"
+  },{
+    "icon": "camera",
+    "path": "./icons/camera.svg",
+    "text": "Cámara"
+  },{
+    "icon": "board",
+    "path": "./icons/board.svg",
+    "text": "Placa"
+  }
+]

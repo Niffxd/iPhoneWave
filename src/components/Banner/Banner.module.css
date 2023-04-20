@@ -1,0 +1,27 @@
+.banner {
+  height: calc(100vh - 70px);
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  background-size: cover;
+  background-position: center;
+  filter: brightness(90%);
+}
+
+.info {
+  height: 150px;
+  width: 75%;
+  color: var(--color-gray);
+  filter: brightness(130%);
+  background-color: var(--color-blue);
+  display: flex;
+  align-items: flex-end;
+  font-size: .8em;
+  border-radius: 0 100% 0 0;
+  padding: 1em;
+  padding-right: 6em;
+}
+
+.info > h1 {
+  font-weight: 500;
+}

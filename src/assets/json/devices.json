@@ -1,0 +1,1036 @@
+{
+  "devices": [
+    {
+      "model": "5",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Silver": "#e4e4e2",
+          "Space_Gray": "#262529"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "alternative": 6655,
+          "medium": 10450
+        },
+        "battery": 8470,
+        "camera": {
+          "front": 4520,
+          "rear": 3675
+        },
+        "port": 4620
+      },
+      "services": {
+        "review": 2000,
+        "clean": 2000
+      }
+    },
+    {
+      "model": "6",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Gold": "#e3ccb4",
+          "Silver": "#e2e3e4",
+          "Space_Gray": "#b1b2b7"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "alternative": 15200,
+          "medium": 19690,
+          "original": 24090
+        },
+        "battery": 10780,
+        "earpiece": 2950,
+        "camera": {
+          "front": 4520,
+          "rear": 5565
+        },
+        "lens": 3600,
+        "port": 6050
+      },
+      "services": {
+        "review": 2000,
+        "clean": 2000
+      }
+    },
+    {
+      "model": "6 Plus",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Gold": "#e3ccb4",
+          "Silver": "#e2e3e4",
+          "Space_Gray": "#b1b2b7"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "alternative": 16390,
+          "medium": 20790,
+          "original": 27390
+        },
+        "battery": 11990,
+        "earpiece": 2800,
+        "camera": {
+          "front": 5292,
+          "rear": 8925
+        },
+        "lens": 3600,
+        "port": 6050
+      },
+      "services": {
+        "review": 2000,
+        "clean": 2000
+      }
+    },
+    {
+      "model": "SE 2016",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Rose_Gold",
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Gold": "#fadcc2",
+          "Rose_Gold": "#ecc6c1",
+          "Silver": "#e4e4e2",
+          "Space_Gray": "#262529"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "alternative": 9680,
+          "medium": 13200
+        },
+        "battery": 9240,
+        "camera": {
+          "front": 4520,
+          "rear": 4830
+        },
+        "port": 4620
+      },
+      "services": {
+        "review": 2000,
+        "clean": 2000
+      }
+    },
+    {
+      "model": "6S",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Rose_Gold",
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Gold": "#e3ccb4",
+          "Rose_Gold": "#ecc6c1",
+          "Silver": "#e2e3e4",
+          "Space_Gray": "#b1b2b7"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "alternative": 16390,
+          "medium": 20790,
+          "original": 27390
+        },
+        "battery": 10780,
+        "earpiece": 2950,
+        "camera": {
+          "front": 4851,
+          "rear": 5985
+        },
+        "lens": 3600,
+        "port": 6050
+      },
+      "services": {
+        "review": 2000,
+        "clean": 2000
+      }
+    },
+    {
+      "model": "6S Plus",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Rose_Gold",
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Gold": "#e3ccb4",
+          "Rose_Gold": "#ecc6c1",
+          "Silver": "#e2e3e4",
+          "Space_Gray": "#b1b2b7"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "alternative": 16500,
+          "medium": 21890,
+          "original": 28490
+        },
+        "battery": 11990,
+        "earpiece": 2900,
+        "camera": {
+          "front": 6505,
+          "rear": 9765
+        },
+        "lens": 3600,
+        "port": 6490
+      },
+      "services": {
+        "review": 2000,
+        "clean": 2000
+      }
+    },
+    {
+      "model": "7",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Black",
+          "Gold",
+          "Rose_Gold",
+          "Silver"
+        ],
+        "variations_colors": {
+          "Black": "#2e3034",
+          "Gold": "#e3ccb4",
+          "Rose_Gold": "#ecc6c1",
+          "Silver": "#e2e3e4"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "alternative": 18700,
+          "medium": 23650,
+          "original": 30800
+        },
+        "battery": 14190,
+        "case": 0,
+        "earpiece": 3500,
+        "camera": {
+          "front": 8710,
+          "rear": 10395
+        },
+        "lens": 4500,
+        "port": 8580
+      },
+      "services": {
+        "review": 2000,
+        "clean": 2000
+      }
+    },
+    {
+      "model": "7 Plus",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Black",
+          "Gold",
+          "Rose_Gold",
+          "Silver"
+        ],
+        "variations_colors": {
+          "Black": "#2e3034",
+          "Gold": "#e3ccb4",
+          "Rose_Gold": "#ecc6c1",
+          "Silver": "#e2e3e4"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "alternative": 21890,
+          "medium": 29150,
+          "original": 37400
+        },
+        "battery": 15290,
+        "case": 0,
+        "earpiece": 3800,
+        "camera": {
+          "front": 10915,
+          "rear": 28245
+        },
+        "lens": 5400,
+        "port": 10450
+      },
+      "services": {
+        "review": 2000,
+        "clean": 2000
+      }
+    },
+    {
+      "model": "8",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Gold": "#f7e8dd",
+          "Silver": "#e2e3e4",
+          "Space_Gray": "#272729"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "alternative": 20790,
+          "medium": 25190,
+          "original": 34100
+        },
+        "battery": 15290,
+        "glass": 16280,
+        "case": 23980,
+        "earpiece": 3500,
+        "camera": {
+          "front": 10915,
+          "rear": 25095
+        },
+        "lens": 4500,
+        "port": 10890
+      },
+      "services": {
+        "review": 2000,
+        "clean": 2000
+      }
+    },
+    {
+      "model": "8 Plus",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Gold": "#f7e8dd",
+          "Silver": "#e2e3e4",
+          "Space_Gray": "#272729"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "alternative": 24200,
+          "medium": 31350,
+          "original": 40150
+        },
+        "battery": 18150,
+        "glass": 18590,
+        "case": 25960,
+        "earpiece": 3800,
+        "camera": {
+          "front": 14112,
+          "rear": 31395
+        },
+        "lens": 5400,
+        "port": 13090
+      },
+      "services": {
+        "review": 2000,
+        "clean": 2000
+      }
+    },
+    {
+      "model": "X",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Silver": "#e4e4e2",
+          "Space_Gray": "#262529"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "medium": 53900,
+          "original": 75900
+        },
+        "battery": 22000,
+        "glass": 22660,
+        "case": 29920,
+        "camera": {
+          "front": 18191,
+          "rear": 30975
+        },
+        "lens": 6000,
+        "port": 16390
+      },
+      "services": {
+        "review": 3000,
+        "clean": 3000
+      }
+    },
+    {
+      "model": "XR",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Black",
+          "Blue",
+          "Coral",
+          "Red",
+          "White",
+          "Yellow"
+        ],
+        "variations_colors": {
+          "Black": "#2e3034",
+          "Blue": "#48aee6",
+          "Coral": "#ff6e5a",
+          "Red": "#b41325",
+          "White": "#f3f3f3",
+          "Yellow": "#f9d045"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "medium": 46200,
+          "original": 58300
+        },
+        "battery": 22550,
+        "glass": 22660,
+        "case": 29920,
+        "camera": {
+          "front": 17640,
+          "rear": 28245
+        },
+        "lens": 5000,
+        "port": 15290
+      },
+      "services": {
+        "review": 3000,
+        "clean": 3000
+      }
+    },
+    {
+      "model": "XS",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Gold": "#fadcc2",
+          "Silver": "#e4e4e2",
+          "Space_Gray": "#262529"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "medium": 53900,
+          "original": 75900
+        },
+        "battery": 25190,
+        "glass": 22660,
+        "case": 29920,
+        "camera": {
+          "front": 18191,
+          "rear": 36750
+        },
+        "lens": 6000,
+        "port": 16390
+      },
+      "services": {
+        "review": 3000,
+        "clean": 3000
+      }
+    },
+    {
+      "model": "XS Max",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Gold": "#fadcc2",
+          "Silver": "#e4e4e2",
+          "Space_Gray": "#262529"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "medium": 63800,
+          "original": 85800
+        },
+        "battery": 25190,
+        "glass": 22660,
+        "case": 31240,
+        "camera": {
+          "front": 20840,
+          "rear": 36750
+        },
+        "lens": 6200,
+        "port": 16390
+      },
+      "services": {
+        "review": 3000,
+        "clean": 3000
+      }
+    },
+    {
+      "model": "SE 2020",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Black",
+          "Red",
+          "White"
+        ],
+        "variations_colors": {
+          "Black": "#262529",
+          "Red": "#b41325",
+          "White": "#f3f3f3"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "alternative": 20790,
+          "medium": 25190,
+          "original": 34100
+        },
+        "battery": 21890,
+        "glass": 16280,
+        "case": 23980,
+        "camera": {
+          "front": 10915,
+          "rear": 25095
+        },
+        "lens": 4500,
+        "port": 10890
+      },
+      "services": {
+        "review": 3000,
+        "clean": 3000
+      }
+    },
+    {
+      "model": "11",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Black",
+          "Green",
+          "Purple",
+          "Red",
+          "White",
+          "Yellow"
+        ],
+        "variations_colors": {
+          "Black": "#1f2020",
+          "Green": "#aee1cd",
+          "Purple": "#d1cdda",
+          "Red": "#ba0c2e",
+          "White": "#f9f6ef",
+          "Yellow": "#ffe681"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "medium": 53900,
+          "original": 75900
+        },
+        "battery": 30690,
+        "glass": 30140,
+        "case": 37950,
+        "chip": 18000,
+        "camera": {
+          "front": 21499,
+          "rear": 34545
+        },
+        "lens": 6500,
+        "port": 20790
+      },
+      "services": {
+        "review": 3000,
+        "clean": 3000
+      }
+    },
+    {
+      "model": "11 Pro",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Midnight_Green",
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Gold": "#fad7bd",
+          "Midnight_Green": "#4e5851",
+          "Silver": "#ebebe3",
+          "Space_Gray": "#535150"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "medium": 59400,
+          "original": 85800
+        },
+        "battery": 32890,
+        "glass": 35200,
+        "case": 47190,
+        "chip": 20000,
+        "camera": {
+          "front": 22600,
+          "rear": 46200
+        },
+        "lens": 7500,
+        "port": 32120
+      },
+      "services": {
+        "review": 3000,
+        "clean": 3000
+      }
+    },
+    {
+      "model": "11 Pro Max",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Midnight_Green",
+          "Silver",
+          "Space_Gray"
+        ],
+        "variations_colors": {
+          "Gold": "#fad7bd",
+          "Midnight_Green": "#4e5851",
+          "Silver": "#ebebe3",
+          "Space_Gray": "#535150"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "medium": 70400,
+          "original": 107800
+        },
+        "battery": 32890,
+        "glass": 35800,
+        "case": 50270,
+        "chip": 22000,
+        "camera": {
+          "front": 23700,
+          "rear": 46200
+        },
+        "lens": 7500,
+        "port": 32890
+      },
+      "services": {
+        "review": 3000,
+        "clean": 3000
+      }
+    },
+    {
+      "model": "12 Mini",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Black",
+          "Blue",
+          "Green",
+          "Purple",
+          "Red",
+          "White"
+        ],
+        "variations_colors": {
+          "Black": "#25212b",
+          "Blue": "#023b63",
+          "Green": "#d8efd5",
+          "Purple": "#b7afe6",
+          "Red": "#d82e2e",
+          "White": "#f6f2ef"
+        }
+      },
+      "parts": {
+        "lens": 10500
+      },
+      "services": {
+        "review": 4000,
+        "clean": 4000
+      }
+    },
+    {
+      "model": "12",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Black",
+          "Blue",
+          "Green",
+          "Purple",
+          "Red",
+          "White"
+        ],
+        "variations_colors": {
+          "Black": "#25212b",
+          "Blue": "#023b63",
+          "Green": "#d8efd5",
+          "Purple": "#b7afe6",
+          "Red": "#d82e2e",
+          "White": "#f6f2ef"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "medium": 275,
+          "original": 495
+        },
+        "battery": 43890,
+        "glass": 41800,
+        "case": 56100,
+        "chip": 25000,
+        "camera": {
+          "front": 31420,
+          "rear": 47250
+        },
+        "lens": 10500,
+        "port": 42020
+      },
+      "services": {
+        "review": 4000,
+        "clean": 4000
+      }
+    },
+    {
+      "model": "12 Pro",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Graphite",
+          "Pacific_Blue",
+          "Silver"
+        ],
+        "variations_colors": {
+          "Gold": "#fcebd3",
+          "Graphite": "#52514d",
+          "Pacific_Blue": "#2d4e5c",
+          "Silver": "#e3e4df"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "medium": 275,
+          "original": 495
+        },
+        "battery": 43890,
+        "glass": 46200,
+        "case": 60500,
+        "chip": 25000,
+        "camera": {
+          "front": 31420,
+          "rear": 61950
+        },
+        "lens": 10500,
+        "port": 42020
+      },
+      "services": {
+        "review": 4000,
+        "clean": 4000
+      }
+    },
+    {
+      "model": "12 Pro Max",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Gold",
+          "Graphite",
+          "Pacific_Blue",
+          "Silver"
+        ],
+        "variations_colors": {
+          "Gold": "#fcebd3",
+          "Graphite": "#52514d",
+          "Pacific_Blue": "#2d4e5c",
+          "Silver": "#e3e4df"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "medium": 352,
+          "original": 660
+        },
+        "battery": 49500,
+        "glass": 49500,
+        "case": 65550,
+        "camera": {
+          "front": 38590,
+          "rear": 61950
+        },
+        "lens": 10500,
+        "port": 42020
+      },
+      "services": {
+        "review": 4000,
+        "clean": 4000
+      }
+    },
+    {
+      "model": "13 Mini",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Blue",
+          "Green",
+          "Midnight",
+          "Pink",
+          "Red",
+          "Starlight"
+        ],
+        "variations_colors": {
+          "Blue": "#276787",
+          "Green": "#394c38",
+          "Midnight": "#232a31",
+          "Pink": "#faddd7",
+          "Red": "#bf0013",
+          "Starlight": "#faf6f2"
+        }
+      },
+      "parts": {
+        "lens": 13500
+      },
+      "services": {
+        "review": 5000,
+        "clean": 5000
+      }
+    },
+    {
+      "model": "13",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Blue",
+          "Green",
+          "Midnight",
+          "Pink",
+          "Red",
+          "Starlight"
+        ],
+        "variations_colors": {
+          "Blue": "#276787",
+          "Green": "#394c38",
+          "Midnight": "#232a31",
+          "Pink": "#faddd7",
+          "Red": "#bf0013",
+          "Starlight": "#faf6f2"
+        }
+      },
+      "parts": {
+        "lcd": {
+          "original": 550
+        },
+        "battery": 49500,
+        "glass": 49500,
+        "case": 0,
+        "camera": {
+          "rear": 47250
+        },
+        "lens": 13500,
+        "port": 37400
+      },
+      "services": {
+        "review": 5000,
+        "clean": 5000
+      }
+    },
+    {
+      "model": "13 Pro",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Alpine_Green",
+          "Gold",
+          "Graphite",
+          "Sierra_Blue",
+          "Silver"
+        ],
+        "variations_colors": {
+          "Alpine_Green": "#576856",
+          "Gold": "#fae7cf",
+          "Graphite": "#54524f",
+          "Sierra_Blue": "#a7c1d9",
+          "Silver": "#f1f2ed"
+        }
+      },
+      "parts": {
+        "battery": 57200,
+        "glass": 53900,
+        "case": 0,
+        "lens": 20000,
+        "port": 46000
+      },
+      "services": {
+        "review": 5000,
+        "clean": 5000
+      }
+    },
+    {
+      "model": "13 Pro Max",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Alpine_Green",
+          "Gold",
+          "Graphite",
+          "Sierra_Blue",
+          "Silver"
+        ],
+        "variations_colors": {
+          "Alpine_Green": "#576856",
+          "Gold": "#fae7cf",
+          "Graphite": "#54524f",
+          "Sierra_Blue": "#a7c1d9",
+          "Silver": "#f1f2ed"
+        }
+      },
+      "parts": {
+        "battery": 64900,
+        "glass": 61600,
+        "case": 0,
+        "lens": 20000,
+        "port": 50000
+      },
+      "services": {
+        "review": 5000,
+        "clean": 5000
+      }
+    },
+    {
+      "model": "SE 2022",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Midnight",
+          "Red",
+          "Starlight"
+        ],
+        "variations_colors": {
+          "Midnight": "#232a31",
+          "Red": "#bf0013",
+          "Starlight": "#faf6f2"
+        }
+      }
+    },
+    {
+      "model": "14",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Blue",
+          "Midnight",
+          "Purple",
+          "Red",
+          "Starlight",
+          "Yellow"
+        ],
+        "variations_colors": {
+          "Blue": "#a0b4c7",
+          "Midnight": "#222930",
+          "Purple": "#e6ddeb",
+          "Red": "#fc0324",
+          "Starlight": "#faf6f2",
+          "Yellow": "#f9e479"
+        }
+      }
+    },
+    {
+      "model": "14 Plus",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Blue",
+          "Midnight",
+          "Purple",
+          "Red",
+          "Starlight",
+          "Yellow"
+        ],
+        "variations_colors": {
+          "Blue": "#a0b4c7",
+          "Midnight": "#222930",
+          "Purple": "#e6ddeb",
+          "Red": "#fc0324",
+          "Starlight": "#faf6f2",
+          "Yellow": "#f9e479"
+        }
+      }
+    },
+    {
+      "model": "14 Pro",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Deep_Purple",
+          "Gold",
+          "Silver",
+          "Space_Black"
+        ],
+        "variations_colors": {
+          "Deep_Purple": "#594f63",
+          "Gold": "#f4e8ce",
+          "Silver": "#f0f2f2",
+          "Space_Black": "#403e3d"
+        }
+      }
+    },
+    {
+      "model": "14 Pro Max",
+      "images": {
+        "path": "devices",
+        "variations": [
+          "Deep_Purple",
+          "Gold",
+          "Silver",
+          "Space_Black"
+        ],
+        "variations_colors": {
+          "Deep_Purple": "#594f63",
+          "Gold": "#f4e8ce",
+          "Silver": "#f0f2f2",
+          "Space_Black": "#403e3d"
+        }
+      }
+    }
+  ],
+  "messages": {
+    "screen": "Las pantallas originales poseen un chip el cuál se encuentra cifrado con información única de tu iPhone. Al cambiar la pantalla se puede intentar realizar el traspaso del mismo a la nueva pantalla mediante un proceso de microsoldadura y una máquina especial para este trabajo. El mismo tiene un precio de price. Si el procedimiento no es efectivo no se cobra el monto de price.",
+    "battery": "Al cambiar la bateria de estos modelos por una nueva el equipo deja de marcar condición. En este momento contamos con una maquina especial la cual nos permite configurar el 100% de la bateria nueva al cambiarla. Siempre hay una minima chance de que quede sin condición de bateria pero normalmente no sucede."
+  }
+}

@@ -1,0 +1,23 @@
+.schedules_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0 3rem ;
+  background-color: var(--color-gray);
+  color: var(--color-blue);
+}
+
+.schedules_container > h2 {
+  margin-bottom: 1rem;
+}
+
+.schedules > p:first-child {
+  font-weight: 600;
+}
+
+.schedules {
+  width: 210px;
+  display: flex;
+  justify-content: space-between;
+}
