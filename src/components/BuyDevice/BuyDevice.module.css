@@ -6,19 +6,24 @@
   background-position-x: center;
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 2rem;
 }
 
 .device_content > h1 {
-  padding: 2rem 0 1rem;
+  text-align: center;
+  padding: 0 0 1rem;
 }
 
 .more_help {
   align-self: center;
-  text-align: center;
   padding: .5rem 1rem;
   border-radius: 1rem;
   color: var(--color-gray);
   background-color: var(--color-blue);
+}
+
+#device-1 {
+  background-position-x: 20%;
 }
 
 #device-1 > h1 {
@@ -32,4 +37,8 @@
 
 #device-2 > h1 {
   color: var(--color-gray);
+}
+
+#device-3 {
+  background-position-x: center;
 }
