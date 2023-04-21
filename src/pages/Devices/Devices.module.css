@@ -4,7 +4,7 @@
   align-items: center;
   color: var(--color-blue);
   padding: 2rem 0 0;
-  background-color: var(--color-gray);
+  background-color: var(--color-white);
 }
 
 .devices_container > div {

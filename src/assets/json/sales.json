@@ -2,11 +2,13 @@
   "category": "Equipos",
   "devices": [
     {
-      "model": "iPhone 14",
+      "model": "iPhone 14 Plus",
+      "preModel": "iPhone 14",
       "image": "/sales/iphone14.jpg"
     },
     {
-      "model": "iPhone 14 Pro",
+      "model": "iPhone 14 Pro Max",
+      "preModel": "iPhone 14 Pro",
       "image": "/sales/iphone14pro.jpg"
     },
     {
