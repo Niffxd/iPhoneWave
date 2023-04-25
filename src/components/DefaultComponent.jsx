@@ -3,6 +3,7 @@ import Accesories from '../pages/Accesories/Accesories.jsx'; //eslint-disable-li
 import Devices from '../pages/Devices/Devices.jsx'; //eslint-disable-line
 import AboutUs from '../pages/AboutUs/AboutUs.jsx'; //eslint-disable-line
 import Contact from '../pages/Contact/Contact.jsx'; //eslint-disable-line
+import Advices from '../pages/Advices/Advices.jsx'; //eslint-disable-line
 import loader from '../assets/loaders/oval.svg';
 
 export default function DefaultComponent ({ page }) {
@@ -26,6 +27,10 @@ export default function DefaultComponent ({ page }) {
     {
       category: 'Contact',
       component: <Contact loader={loader}/>
+    },
+    {
+      category: 'Advices',
+      component: <Advices loader={loader}/>
     }
   ];
 
