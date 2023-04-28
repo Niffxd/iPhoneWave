@@ -1,0 +1,819 @@
+{
+  "place_info": {
+    "title": "iPhone Wave",
+    "address": "Av. Aconquija 229, Yerba Buena, Tucumán, Argentina",
+    "rating": 4.6,
+    "reviews": 60
+  },
+  "reviews": [
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNCbmZEYm5RRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICBnfDbnQE%7CCgwIydLInQYQ2Nao9wE%7C?hl=es-419",
+      "user": {
+        "name": "Matias Choulet",
+        "link": "https://www.google.com/maps/contrib/104666595820315048908?hl=es-419&sa=X&ved=2ahUKEwjjyK_Iycv-AhVjl4kEHTmFBLcQvvQBegQIARAn",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5Qjz3aY0y6jQej_5ixe3X9T2iumvEvQI4YSSCkkXDM=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 114,
+        "photos": 312
+      },
+      "rating": 5.0,
+      "date": "Hace 3 meses",
+      "snippet": "El lugar indicado para que reparen el iPhone. Te atiende bien, te tienen paciencia, te explican, te orientan y lo valoro mucho el servicio es rápido. Podes pagar con tarjeta. Tienen precios para todos los bolsillos.",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQtdE9xdkd3EAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgID-tOqvGw%7CCgsIgp_zmwYQ8O-hTw%7C?hl=es-419",
+      "user": {
+        "name": "Jorge Amaya (George)",
+        "link": "https://www.google.com/maps/contrib/101093137652465793933?hl=es-419&sa=X&ved=2ahUKEwjjyK_Iycv-AhVjl4kEHTmFBLcQvvQBegQIARA_",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5TJ0-PHFbacYMIpvEdD_RgjSli620_vw9i2Bafnjw=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 73,
+        "photos": 208
+      },
+      "rating": 5.0,
+      "date": "Hace 5 meses",
+      "snippet": "Hace poco compre un equipo en este lugar, la verdad me sorprendió la buena atención y velocidad con la que te atienden. Pronto estaré por ahí. 👍",
+      "likes": 2
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNobV9HNHpnRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIChm_G4zgE%7CCgsIifPZnwYQyOjhCQ%7C?hl=es-419",
+      "user": {
+        "name": "Gustavo Carrizo",
+        "link": "https://www.google.com/maps/contrib/108089537527934116667?hl=es-419&sa=X&ved=2ahUKEwjjyK_Iycv-AhVjl4kEHTmFBLcQvvQBegQIARBX",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxYURm2zexbk4iVxVrDa5hu468OwITtvBR51XxH2=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 7,
+        "photos": 13
+      },
+      "rating": 5.0,
+      "date": "Hace 2 meses",
+      "snippet": "Muy buena atención, claros para explicar, rápidos y sin vueltasVolvería"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCdTZ2bUl3EAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICBu6vmIw%7CCgwIlrrbnQYQ4LuahgE%7C?hl=es-419",
+      "user": {
+        "name": "luiswar3d",
+        "link": "https://www.google.com/maps/contrib/116115580465066982811?hl=es-419&sa=X&ved=2ahUKEwjjyK_Iycv-AhVjl4kEHTmFBLcQvvQBegQIARBv",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5QnveDYW5n8nyLYXM4DTPacXKIKZB7obaLlDB5PZgY=s40-c-c0x00000000-cc-rp-mo-ba5-br100",
+        "local_guide": true,
+        "reviews": 169,
+        "photos": 500
+      },
+      "rating": 5.0,
+      "date": "Hace 3 meses",
+      "snippet": "Los técnicos te dan todas las alternativas y posibles soluciones, antes de reparar algo, cosa que es lo correcto, y la decisión final de cambios está en uno. Recomendable como centro Apple.",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURLLV8yWWJnEAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDK-_2Ybg%7CCgwI0vmLhQYQiIukggE%7C?hl=es-419",
+      "user": {
+        "name": "rodolfo campero",
+        "link": "https://www.google.com/maps/contrib/117274229787911722195?hl=es-419&sa=X&ved=2ahUKEwjjyK_Iycv-AhVjl4kEHTmFBLcQvvQBegUIARCHAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5SYMUpnJsJ30IPiv7W-ugnwl3zwZXlCtHN66uF0NQ=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 2,
+        "photos": 15
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Excelente atencion, cumplieron con todo! Muy bueno el servicio. El local impecable y la gente muy seria en su trabajo.",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNXLXFhd2tBRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICW-qawkAE%7CCgwI-fTfkAYQ8NP1wQE%7C?hl=es-419",
+      "user": {
+        "name": "Fort Mateo Juan Ignacio",
+        "link": "https://www.google.com/maps/contrib/113329296139909879797?hl=es-419&sa=X&ved=2ahUKEwjjyK_Iycv-AhVjl4kEHTmFBLcQvvQBegUIARCfAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5ToeYq0IsXiach924maRr2QxO02Ni1k00SdTNhK=s40-c-c0x00000000-cc-rp-mo-ba3-br100",
+        "local_guide": true,
+        "reviews": 40
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Unos genios, excelente atención, muy buena onda.",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCc1lHSldREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICBsYGJWQ%7CCgwIs5exnQYQwP735wE%7C?hl=es-419",
+      "user": {
+        "name": "facundo vergara",
+        "link": "https://www.google.com/maps/contrib/111779023791814323264?hl=es-419&sa=X&ved=2ahUKEwjjyK_Iycv-AhVjl4kEHTmFBLcQvvQBegUIARC3AQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5RA0JtqCJ3UrQxFsFQ9HxKhHu5MdoYE0aHIQH4u77o=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 111,
+        "photos": 13
+      },
+      "rating": 5.0,
+      "date": "Hace 3 meses",
+      "snippet": "Excelente servicio",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURtelBuWGFREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDmzPnXaQ%7CCgwI3ISojwYQyLe-pQE%7C?hl=es-419",
+      "user": {
+        "name": "Santiago Diaz Spolita",
+        "link": "https://www.google.com/maps/contrib/115925250040572689374?hl=es-419&sa=X&ved=2ahUKEwjjyK_Iycv-AhVjl4kEHTmFBLcQvvQBegUIARDPAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxZtyhifH0iDpgGoNFY3vIqOuoFzzVGGL3RYxRKu=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 3
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Super buena atención y re cuidadosos",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURtelBHclV3EAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDmzPGrUw%7CCgsIhvenjwYQqJO1cQ%7C?hl=es-419",
+      "user": {
+        "name": "Santiago Angos",
+        "link": "https://www.google.com/maps/contrib/100567564644751691473?hl=es-419&sa=X&ved=2ahUKEwjjyK_Iycv-AhVjl4kEHTmFBLcQvvQBegUIARDnAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxbbODbmWYsFqhPIaXzfspS1QoeeVNfmG3l8H9yh=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 5
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Por fin un lugar que me arreglaron el celular, me cobraron lo que corresponde y no se rompió a los 3 días!! Super recomendado",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNpLXMtYzJ3RRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi-s-c2wE%7CCgsIy_injwYQqJOMVQ%7C?hl=es-419",
+      "user": {
+        "name": "Manuel Arquez",
+        "link": "https://www.google.com/maps/contrib/104476878902088055458?hl=es-419&sa=X&ved=2ahUKEwjjyK_Iycv-AhVjl4kEHTmFBLcQvvQBegUIARD_AQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxYtKytF7V49o9fPAl3f5aELLah_SUufd0UIM1zx=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Execelente lugar con una gran atención de sus trabajadores. Es imposible tener un iPhone y que iPhone Wave no sea tu local de confianza. Sigan así!!",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNhdmNUR3lRRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICavcTGyQE%7CCgwI4sa6iAYQqLLingM%7C?hl=es",
+      "user": {
+        "name": "Maximiliano Coll",
+        "link": "https://www.google.com/maps/contrib/101153026544596707004?hl=es&sa=X&ved=2ahUKEwiP__T61cv-AhWajYkEHfihBtQQvvQBegQIARAj",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5Qw37iKF1h_gOoD4RsvhJFCwcr3PHvfDQfTJCu_9BI=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 74,
+        "photos": 56
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Muy buena atención, tienen de todo. Lo bueno también es que hacen horario corrido así que es cómodo.",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURtclBTLTZ3RRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDmrPS-6wE%7CCgwI6_yojwYQuMfN1QM%7C?hl=es",
+      "user": {
+        "name": "Gaspar Olaso",
+        "link": "https://www.google.com/maps/contrib/106978148418411388334?hl=es&sa=X&ved=2ahUKEwiP__T61cv-AhWajYkEHfihBtQQvvQBegQIARA7",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxaAhZ0Eqcq_Psk0r93XvuNJLyrqm2cppuUr6akA=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 48,
+        "photos": 159
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Excelente servicio! El mejor de Tucumán sin dudas",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpLW9mdmVREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi-ofveQ%7CCgwInenw_AUQyKaOowM%7C?hl=es",
+      "user": {
+        "name": "Nicolas Fernandez",
+        "link": "https://www.google.com/maps/contrib/113233194860850160780?hl=es&sa=X&ved=2ahUKEwiP__T61cv-AhWajYkEHfihBtQQvvQBegQIARBT",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxYdDpFqXXqwhWrWsRaFofA5kFkgqlyculnO5jfv=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 2
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Excelente servicio!Cambio de pantalla de un Iphone 11 en 15 minutos quedo igual a nuevo y me dieron un cafe mientras esperaba!Sigan asi!!",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpaHRhYUNnEAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICihtaaCg%7CCgwI68Lx_AUQqPzU0gM%7C?hl=es",
+      "user": {
+        "name": "Tulio Moya",
+        "link": "https://www.google.com/maps/contrib/105952237633617627454?hl=es&sa=X&ved=2ahUKEwiP__T61cv-AhWajYkEHfihBtQQvvQBegQIARBr",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxaCl901dtcH0ENHBzD7j_weCVgJuV3AY7s9BkFO=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Excelente atención, gran disposición del personal, tienen una buena variedad de productos y todo a buen precio. Recomendado.",
+      "likes": 2
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpaHBuVEhREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICihpnTHQ%7CCgsI_Ofx_AUQoMuqeA%7C?hl=es",
+      "user": {
+        "name": "Jorge Augusto Litovic",
+        "link": "https://www.google.com/maps/contrib/111569874454747541586?hl=es&sa=X&ved=2ahUKEwiP__T61cv-AhWajYkEHfihBtQQvvQBegUIARCDAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5Se8KinCCUUg9X60OKdu81FhUW7lpsAFJFrucylSw=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 10,
+        "photos": 8
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Excelente trato y muy rápidos! Super recomiendable!Le doy 5 estrellas porque no hay más!",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURteWZfaUxnEAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDmyf_iLg%7CCgwI8OnljwYQuIa22QI%7C?hl=es",
+      "user": {
+        "name": "Angel José Valdecantos García",
+        "link": "https://www.google.com/maps/contrib/117020652052866971742?hl=es&sa=X&ved=2ahUKEwiP__T61cv-AhWajYkEHfihBtQQvvQBegUIARCbAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5SspxDSuiu6asbuVLquDzKJSNUymUbz9i5owZjlLA=s40-c-c0x00000000-cc-rp-mo-ba6-br100",
+        "local_guide": true,
+        "reviews": 724,
+        "photos": 471
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Muy buena atención y asesoramiento. Muy profesionales.",
+      "likes": 2
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpaHZTTENnEAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICihvSLCg%7CCgwI3p7x_AUQuMuW2QM%7C?hl=es",
+      "user": {
+        "name": "mariano torres",
+        "link": "https://www.google.com/maps/contrib/108794921832119823351?hl=es&sa=X&ved=2ahUKEwiP__T61cv-AhWajYkEHfihBtQQvvQBegUIARCzAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5Q5og0YFDcrHHA9VTJfHmltyjHM_pm__mk__Y5djg=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 12,
+        "photos": 1
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Excelente atención, arreglan rápido y sin problemas, tienen precios piolas."
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNpanMzYmhRRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICijs3bhQE%7CCgwImaSA_QUQ8IvgygM%7C?hl=es",
+      "user": {
+        "name": "Lautaro de leon",
+        "link": "https://www.google.com/maps/contrib/115987430126287747617?hl=es&sa=X&ved=2ahUKEwiP__T61cv-AhWajYkEHfihBtQQvvQBegUIARDLAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxatVR_QfBt6TgVEikReRm4W2vTEdbwswyqocpKK=s40-c-c0x00000000-cc-rp-mo-ba3-br100",
+        "local_guide": true,
+        "reviews": 45,
+        "photos": 4
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Muy buena atención! Y reparaciones de lujo súper recomendados!"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURtN1BQX3R3RRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDm7PP_twE%7CCgwI3oSrjwYQoLeSngE%7C?hl=es",
+      "user": {
+        "name": "JOAQUIN LEON",
+        "link": "https://www.google.com/maps/contrib/110423162491820000896?hl=es&sa=X&ved=2ahUKEwiP__T61cv-AhWajYkEHfihBtQQvvQBegUIARDjAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxZ16wOJ_Y1mZs3eMo73ErwazfZPbIetquHPgii8=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Muy buena atención y muy profesionales.",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURoLWJuYldREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDh-bnbWQ%7CCgwI5cG6oAYQ2O7FuwM%7C?hl=es",
+      "user": {
+        "name": "David Torres Martinez",
+        "link": "https://www.google.com/maps/contrib/115745238477316395812?hl=es&sa=X&ved=2ahUKEwiP__T61cv-AhWajYkEHfihBtQQvvQBegUIARD7AQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5RSy1TFf-u4WXFN3FbMeoJzylrTZa6X1nt6fSVyVw=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 61,
+        "photos": 81
+      },
+      "rating": 5.0,
+      "date": "Hace un mes",
+      "snippet": "Buena atención"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNpNXJEWnBnRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi5rDZpgE%7CCgwIzJn2_AUQqNfJwQI%7C?hl=es-419",
+      "user": {
+        "name": "☺JUAN☺ ☺VIOLA☺",
+        "link": "https://www.google.com/maps/contrib/117476429205504833871?hl=es-419&sa=X&ved=2ahUKEwiCp9Kf1sv-AhUBjYkEHYKDBNUQvvQBegQIARAh",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxbsuV-C6zCB6O_-qieASVq6dlk_nAu0PrXTcgB2=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Muy buena de atención y servicio",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpaHJhYVV3EAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICihraaUw%7CCgwIqcTx_AUQ4MrlkgI%7C?hl=es-419",
+      "user": {
+        "name": "Julian Tree",
+        "link": "https://www.google.com/maps/contrib/118345658579993557334?hl=es-419&sa=X&ved=2ahUKEwiCp9Kf1sv-AhUBjYkEHYKDBNUQvvQBegQIARA5",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5T4nFtkRWNiEgVxwaLa89H1Uw_M9T219V367L1b=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Excelente atención! 100% recomendado!"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpLXItZ0RnEAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi-r-gDg%7CCgwI5fnw_AUQqJzo1gM%7C?hl=es-419",
+      "user": {
+        "name": "Julieta Antonucci",
+        "link": "https://www.google.com/maps/contrib/110318273114034210096?hl=es-419&sa=X&ved=2ahUKEwiCp9Kf1sv-AhUBjYkEHYKDBNUQvvQBegQIARBR",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5R5tzkCeIOcU4VYL0o67GUGFebmZEf_fDEw4yAukA=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 12,
+        "photos": 5
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "summary": "Positivo: Capacidad de respuesta, Precio",
+      "snippet": "Positivo: Capacidad de respuesta, PrecioExcelente atención de los chicos! Y productos que en tuc no se consiguen 😍"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNpcHB1bG1RRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICippulmQE%7CCgwIyPb1_AUQoMe-0AI%7C?hl=es-419",
+      "user": {
+        "name": "Nolasco Chalabe",
+        "link": "https://www.google.com/maps/contrib/107193717255079442457?hl=es-419&sa=X&ved=2ahUKEwiCp9Kf1sv-AhUBjYkEHYKDBNUQvvQBegQIARBv",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5T26YV_23tx1bgPQhRKBSOhAUqoHZrPZM0_69p1zA=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 91,
+        "photos": 8
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Excelente atención y servicio. Dejaron mi Iphone como nuevo."
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpLXFlcVVBEAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi-qeqUA%7CCgsI1erw_AUQsLSqIg%7C?hl=es-419",
+      "user": {
+        "name": "Francisco Torres",
+        "link": "https://www.google.com/maps/contrib/107815963966962612335?hl=es-419&sa=X&ved=2ahUKEwiCp9Kf1sv-AhUBjYkEHYKDBNUQvvQBegUIARCHAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5T61hcuaVWRlr4AHLdHHKHZPTzRsdiW4j_k8mDABpo=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 3
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Muy buen servicio y precios accesibles!",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2bWJUTnRRRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgID6mbTNtQE%7CCgwIldPrigYQ2NHlggE%7C?hl=es-419",
+      "user": {
+        "name": "Krlos Lopez",
+        "link": "https://www.google.com/maps/contrib/117453123586172132259?hl=es-419&sa=X&ved=2ahUKEwiCp9Kf1sv-AhUBjYkEHYKDBNUQvvQBegUIARCfAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5QncGPTSOTcdAG65evwvTS-bgpvkno5xS8Rb--9=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 5,
+        "photos": 4
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Exelente lugar, muy recomendable",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNpLXRmZjh3RRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi-tff8wE%7CCgwIvO_w_AUQ-O_QlwE%7C?hl=es-419",
+      "user": {
+        "name": "fede Argaz",
+        "link": "https://www.google.com/maps/contrib/114069284157049339214?hl=es-419&sa=X&ved=2ahUKEwiCp9Kf1sv-AhUBjYkEHYKDBNUQvvQBegUIARC3AQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxZ9C_XPcUjaTCaBOQnyKZm_EUzKiMXjH8BlvJM_=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Excelente atención y el mejor servicio tecnico de Iphone!"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpLXNmSU5REAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi-sfINQ%7CCgwIqunw_AUQyKGclAI%7C?hl=es-419",
+      "user": {
+        "name": "Ezequiel Cesano",
+        "link": "https://www.google.com/maps/contrib/107570076598578585165?hl=es-419&sa=X&ved=2ahUKEwiCp9Kf1sv-AhUBjYkEHYKDBNUQvvQBegUIARDPAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxarMEGvWRczzIvz5yqQ7lmke5VGzACOSl9nqzDg=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Excelente servicio y atención!"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURtN1BDZnNnRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDm7PCfsgE%7CCgwI356qjwYQ0JeuyAM%7C?hl=es-419",
+      "user": {
+        "name": "Javier Cervera",
+        "link": "https://www.google.com/maps/contrib/113466473661839099808?hl=es-419&sa=X&ved=2ahUKEwiCp9Kf1sv-AhUBjYkEHYKDBNUQvvQBegUIARDnAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5Tvg322TkrU0vWAWFfbquv5-3lkrquT9QTEuOXFyw=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 2,
+        "photos": 9
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Excelente atención!!",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURtekptMkZBEAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDmzJm2FA%7CCgwI0P6njwYQkLWv-AI%7C?hl=es-419",
+      "user": {
+        "name": "Facundo Apestey",
+        "link": "https://www.google.com/maps/contrib/109609187850418345111?hl=es-419&sa=X&ved=2ahUKEwiCp9Kf1sv-AhUBjYkEHYKDBNUQvvQBegUIARD_AQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5QfZ30MP7UQ21_TRHHsfTT9eK_UmAoSRCjsiaBvrQ=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Excelente servicio",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURXZ01UbVN3EAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDWgMTmSw%7CCgwIwNGtkQYQwOOTtQI%7C?hl=es-419",
+      "user": {
+        "name": "Magdalena Maria Inciarte",
+        "link": "https://www.google.com/maps/contrib/107081341273567067200?hl=es-419&sa=X&ved=2ahUKEwjQ3-qt1sv-AhVDjYkEHRczChUQvvQBegQIARAh",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5QGsg3Gtunj6hAXtrdQNm8HtmN47adyvFCF1tAUeQ=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 3
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": "Excelente servicio"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpLXNmcFR3EAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi-sfpTw%7CCgwI8-nw_AUQ-NnRoQM%7C?hl=es-419",
+      "user": {
+        "name": "Leo Rossi Rojo",
+        "link": "https://www.google.com/maps/contrib/103735222287605772334?hl=es-419&sa=X&ved=2ahUKEwjQ3-qt1sv-AhVDjYkEHRczChUQvvQBegQIARA5",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5T1KKQFmBZ0M5OAabSahrUwTdCOsvN5-UUvtnweVA=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 2
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Rapido y excelente servicio 👌",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpLXJ1RFlBEAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi-ruDYA%7CCgsIw-bw_AUQsKfqHA%7C?hl=es-419",
+      "user": {
+        "name": "Franco Avignone",
+        "link": "https://www.google.com/maps/contrib/103681999528348871596?hl=es-419&sa=X&ved=2ahUKEwjQ3-qt1sv-AhVDjYkEHRczChUQvvQBegQIARBR",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxbDJ5eDjW_K2QPHtAtUnVcP4HZaj-k02Jmkuzhe=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1,
+        "photos": 4
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "El mejor servicio técnico para tu iPhone😍"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpLXNmb2FnEAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi-sfoag%7CCgwIqunw_AUQyPHPhQM%7C?hl=es-419",
+      "user": {
+        "name": "Nicolas Gambande",
+        "link": "https://www.google.com/maps/contrib/113397640695322293578?hl=es-419&sa=X&ved=2ahUKEwjQ3-qt1sv-AhVDjYkEHRczChUQvvQBegQIARBp",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxZVevacPAVVqgED35mCHcwrNy5VMRXFB1by_mRu=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 2
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Son unos crack estos pibes"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNpLXFlUnJ3RRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi-qeRrwE%7CCgwI9-rw_AUQyNTzmAM%7C?hl=es-419",
+      "user": {
+        "name": "Julian Roisenstraj",
+        "link": "https://www.google.com/maps/contrib/103643781583836592637?hl=es-419&sa=X&ved=2ahUKEwjQ3-qt1sv-AhVDjYkEHRczChUQvvQBegUIARCBAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5TbG1ROHXh1VJJHaK8TVgvskQGO_f41QnMqNuWFFw=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 2
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": "Todo excelente !"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMtOWEyUzlRRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIC-9a2S9QE%7CCgwIpKOxmwYQ6MyW6wE%7C?hl=es-419",
+      "user": {
+        "name": "Karina Unguerini",
+        "link": "https://www.google.com/maps/contrib/101974174492617752147?hl=es-419&sa=X&ved=2ahUKEwjQ3-qt1sv-AhVDjYkEHRczChUQvvQBegUIARCZAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxYsLAMGHc9Wby3RrtvqyDmQaPpZns6hx4FeGWf_=s40-c-c0x00000000-cc-rp-mo-ba2-br100",
+        "local_guide": true,
+        "reviews": null
+      },
+      "rating": 5.0,
+      "date": "Hace 5 meses",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN1MF9lSTZ3RRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICu0_eI6wE%7CCgwI4621lwYQ-LGQzAI%7C?hl=es-419",
+      "user": {
+        "name": "Natalia Solorzano",
+        "link": "https://www.google.com/maps/contrib/100505822164562084754?hl=es-419&sa=X&ved=2ahUKEwjQ3-qt1sv-AhVDjYkEHRczChUQvvQBegUIARCuAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxZvPaCMCLlnSb-2Z-OUwWIhGRxFjpikyWKylyUE8A=s40-c-c0x00000000-cc-rp-mo-ba2-br100",
+        "local_guide": true,
+        "reviews": 18,
+        "photos": 20
+      },
+      "rating": 5.0,
+      "date": "Hace 8 meses",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNpLXAtRDRnRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi-p-D4gE%7CCgwIjfjw_AUQ8LD93gE%7C?hl=es-419",
+      "user": {
+        "name": "Martin Flores",
+        "link": "https://www.google.com/maps/contrib/114805492848836654540?hl=es-419&sa=X&ved=2ahUKEwjQ3-qt1sv-AhVDjYkEHRczChUQvvQBegUIARDDAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxZHJFZQyYT10-6bHY5nnaFOHmeEFZTCbRrKuTB3=s40-c-c0x00000000-cc-rp-mo-br100"
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "summary": "Positivo: Capacidad de respuesta",
+      "snippet": "Positivo: Capacidad de respuesta"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMtaDVHNjRBRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIC-h5G64AE%7CCgwIo-PLmwYQ0Ne4iQI%7C?hl=es-419",
+      "user": {
+        "name": "Guido A. Cheli",
+        "link": "https://www.google.com/maps/contrib/114769934427670001024?hl=es-419&sa=X&ved=2ahUKEwjQ3-qt1sv-AhVDjYkEHRczChUQvvQBegUIARDdAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5SYkXbclLm_Pm4bbS0tUVIwJv1i0nvAsAG31AxA46M=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 17
+      },
+      "rating": 5.0,
+      "date": "Hace 5 meses",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNpaHBUNnpBRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICihpT6zAE%7CCgsI3Zfx_AUQ0In-Kg%7C?hl=es-419",
+      "user": {
+        "name": "Guillo Garcia L",
+        "link": "https://www.google.com/maps/contrib/100192298619343525866?hl=es-419&sa=X&ved=2ahUKEwjQ3-qt1sv-AhVDjYkEHRczChUQvvQBegUIARDyAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5Sh7d1Ggh673fkeyOlcNNhQQplZQiczo5QwJRZ6lg=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 3
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "summary": "Positivo: Capacidad de respuesta",
+      "snippet": "Positivo: Capacidad de respuesta"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMteFpxR213RRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIC-xZqGmwE%7CCgsI67SqmwYQgISlDw%7C?hl=es-419",
+      "user": {
+        "name": "Diego Fernandez",
+        "link": "https://www.google.com/maps/contrib/106693008714073702479?hl=es-419&sa=X&ved=2ahUKEwiSzrK81sv-AhUVlYkEHUW0AvIQvvQBegQIARAh",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxZYLb_b5bnQPeHIr53Z3hIkbqH4dYfE77xvV0RD=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 2
+      },
+      "rating": 5.0,
+      "date": "Hace 5 meses",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURteklua2lBRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDmzInkiAE%7CCgsI2venjwYQoOuGOw%7C?hl=es-419",
+      "user": {
+        "name": "emiliano luna",
+        "link": "https://www.google.com/maps/contrib/113260798717900360529?hl=es-419&sa=X&ved=2ahUKEwiSzrK81sv-AhUVlYkEHUW0AvIQvvQBegQIARA2",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5Tuzxq1tLUM9jUZSa2GfjXeHmCk5hUDJyGBsr-b=s40-c-c0x00000000-cc-rp-mo-br100"
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNtMEpiZ2VREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICm0JbgeQ%7CCgwI2KbpjQYQ4Kb6kgE%7C?hl=es-419",
+      "user": {
+        "name": "Javier Leguizamon",
+        "link": "https://www.google.com/maps/contrib/111664698414632275959?hl=es-419&sa=X&ved=2ahUKEwiSzrK81sv-AhUVlYkEHUW0AvIQvvQBegQIARBK",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5T2-pol8xyIMGbGkWIa-74x-1IZarMOBmDZ8uRVRQ=s40-c-c0x00000000-cc-rp-mo-ba3-br100",
+        "local_guide": true,
+        "reviews": 25,
+        "photos": 11
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpNXZDWVVREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICi5vCYUQ%7CCgsI-Jn2_AUQoJidBQ%7C?hl=es-419",
+      "user": {
+        "name": "Elfio Avignone",
+        "link": "https://www.google.com/maps/contrib/105115672425152755610?hl=es-419&sa=X&ved=2ahUKEwiSzrK81sv-AhUVlYkEHUW0AvIQvvQBegQIARBf",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5S69XDhfnh0dPpFY1OT40EauaYkffFy6gmvDOt-hg=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 10
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNtMjk3bkxREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICm297nLQ%7CCgwIsJ_xjgYQqOK4_QI%7C?hl=es-419",
+      "user": {
+        "name": "Nicolás Petersen",
+        "link": "https://www.google.com/maps/contrib/106015871599855278622?hl=es-419&sa=X&ved=2ahUKEwiSzrK81sv-AhUVlYkEHUW0AvIQvvQBegQIARB0",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5TH8Uf5ezZOJbTrSKZxMh8ZTFRlpfQVSX6Bo4lT=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1
+      },
+      "rating": 5.0,
+      "date": "Hace un año",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNpaHBEbUR3EAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICihpDmDw%7CCgsImILx_AUQ2Oa_OQ%7C?hl=es-419",
+      "user": {
+        "name": "Gabriel Avellaneda",
+        "link": "https://www.google.com/maps/contrib/102357486691534188640?hl=es-419&sa=X&ved=2ahUKEwiSzrK81sv-AhUVlYkEHUW0AvIQvvQBegUIARCJAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5SxhvKOX-TYqcsQmZ6vDCeha6w4ZuLXsAppoYQ_jg=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1
+      },
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "summary": "Positivo: Calidad, Capacidad de respuesta, Precio, Profesionalismo",
+      "snippet": "Positivo: Calidad, Capacidad de respuesta, Precio, Profesionalismo"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCNFB2MkJREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDB4Pv2BQ%7CCgwI6svwnQYQsJiGtgM%7C?hl=es-419",
+      "user": {
+        "name": "Pani Gaymer",
+        "link": "https://www.google.com/maps/contrib/105825573192368906245?hl=es-419&sa=X&ved=2ahUKEwiSzrK81sv-AhUVlYkEHUW0AvIQvvQBegUIARCkAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5Ro4GfXd7DhRQlzzgTnO4n7DrUCtN3Tf6Gey1tWGck=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 4
+      },
+      "rating": 5.0,
+      "date": "Hace 3 meses",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNoOHZmb2JREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICh8vfobQ%7CCgwI2I2VnwYQqJmvnAE%7C?hl=es-419",
+      "user": {
+        "name": "JuanMa Ortiz",
+        "link": "https://www.google.com/maps/contrib/109371761352722640819?hl=es-419&sa=X&ved=2ahUKEwiSzrK81sv-AhUVlYkEHUW0AvIQvvQBegUIARC5AQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5RvImXVoPhqasxC51uoEzmrQe2kdM9Q4jXrwpt9dA=s40-c-c0x00000000-cc-rp-mo-ba3-br100",
+        "local_guide": true,
+        "reviews": 60,
+        "photos": 17
+      },
+      "rating": 4.0,
+      "date": "Hace 2 meses",
+      "snippet": "Buena atención, y atención personalizada"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNXbnRuYjl3RRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICWntnb9wE%7CCgwI-5rwkAYQiNWIiwM%7C?hl=es-419",
+      "user": {
+        "name": "Alfredo Vega",
+        "link": "https://www.google.com/maps/contrib/113628179891749834908?hl=es-419&sa=X&ved=2ahUKEwiSzrK81sv-AhUVlYkEHUW0AvIQvvQBegUIARDRAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxY-Hc_Jzb6NMiUVsQupC4F77g_SdM4earVcPoDs=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 39
+      },
+      "rating": 4.0,
+      "date": "Hace un año",
+      "snippet": "Muy buena atención, rápida respuesta. Y trabajos garantidos !",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHaGRuTjF3RRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDGhdnN1wE%7CCgwIj_OpjQYQ-PC-jwE%7C?hl=es-419",
+      "user": {
+        "name": "Myriam Medina",
+        "link": "https://www.google.com/maps/contrib/112720850880425118174?hl=es-419&sa=X&ved=2ahUKEwiSzrK81sv-AhUVlYkEHUW0AvIQvvQBegUIARDpAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5SnKtPjtKKXzPHmYBDHprVChaw56cPTwmvujz1UOw=s40-c-c0x00000000-cc-rp-mo-ba3-br100",
+        "local_guide": true,
+        "reviews": 36,
+        "photos": 61
+      },
+      "rating": 4.0,
+      "date": "Hace un año",
+      "snippet": "El servicio es excelente para el arreglo de Iphone y al lado tenes la cafetería de YO heladería",
+      "likes": 1,
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipND5bupeSVy8m_HWY1B2-G-bnW2SHmP9uFQ2rXk=w100-h100-p-n-k-no"
+      ]
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQyX1AySGdBRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgID2_P2HgAE%7CCgsI2vDkkwYQ0NmRfQ%7C?hl=es-419",
+      "user": {
+        "name": "Guillermo Brito",
+        "link": "https://www.google.com/maps/contrib/112040381293334532055?hl=es-419&sa=X&ved=2ahUKEwiYp53O1sv-AhWdlIkEHa2lCfAQvvQBegQIARAh",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5RFrGGogVtvEEADnWkmYl3QoZZvUhBrGdLrZMm3T-Q=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 126,
+        "photos": 31
+      },
+      "rating": 4.0,
+      "date": "Hace 11 meses",
+      "snippet": "Muy buena atención",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURLd283ekJREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDKwo7zBQ%7CCgwI8dzHhAYQgLq8qAE%7C?hl=es-419",
+      "user": {
+        "name": "Eduardo Manzano",
+        "link": "https://www.google.com/maps/contrib/110743075931384665571?hl=es-419&sa=X&ved=2ahUKEwiYp53O1sv-AhWdlIkEHa2lCfAQvvQBegQIARA5",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5RvWgncYnBsiZRq7cuGisiwSk-6ZhXcGC0Cuoie2w=s40-c-c0x00000000-cc-rp-mo-ba5-br100",
+        "local_guide": true,
+        "reviews": 295,
+        "photos": 521
+      },
+      "rating": 4.0,
+      "date": "Hace un año",
+      "snippet": "Cambiaron la batería de mi iPhone y ahora dura un día. Recomendable."
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHbHFyVHB3RRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDGlqrTpwE%7CCgwIieSFjQYQkJPIsQE%7C?hl=es-419",
+      "user": {
+        "name": "Paola Cortez",
+        "link": "https://www.google.com/maps/contrib/102716618674975172648?hl=es-419&sa=X&ved=2ahUKEwiYp53O1sv-AhWdlIkEHa2lCfAQvvQBegQIARBR",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5TcVEyDxvXKPBYzjKAOxw1p5cX3BQARreEQSJMlfQ=s40-c-c0x00000000-cc-rp-mo-ba3-br100",
+        "local_guide": true,
+        "reviews": 31,
+        "photos": 19
+      },
+      "rating": 4.0,
+      "date": "Hace un año",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNteG9Id0ZnEAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICmxoHwFg%7CCgwInqikjgYQ0IHsoAE%7C?hl=es-419",
+      "user": {
+        "name": "Fernando Bernardo",
+        "link": "https://www.google.com/maps/contrib/106084962339686514857?hl=es-419&sa=X&ved=2ahUKEwiYp53O1sv-AhWdlIkEHa2lCfAQvvQBegQIARBm",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5QO-NtuWujOyyix0ucG51L5Zv4BqF_gWKWdk57-_A=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 134,
+        "photos": 257
+      },
+      "rating": 4.0,
+      "date": "Hace un año",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNlM3J2djZ3RRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICe3rvv6wE%7CCgwI7pSKmQYQ-L3VjQE%7C?hl=es-419",
+      "user": {
+        "name": "RAUL MARCELO CARO",
+        "link": "https://www.google.com/maps/contrib/113911261543007935693?hl=es-419&sa=X&ved=2ahUKEwiYp53O1sv-AhWdlIkEHa2lCfAQvvQBegQIARB7",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5RUiupHk8hZag9ESrFbt-s3rmjvjXPz8iCW5LSs=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 7
+      },
+      "rating": 3.0,
+      "date": "Hace 7 meses",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURtMU9fQzJnRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDm1O_C2gE%7CCgwIpMWjjwYQqJXglAM%7C?hl=es-419",
+      "user": {
+        "name": "Angeles Ruiz de Prado",
+        "link": "https://www.google.com/maps/contrib/102190949959919471744?hl=es-419&sa=X&ved=2ahUKEwiYp53O1sv-AhWdlIkEHa2lCfAQvvQBegUIARCQAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxZRYdZLkMzo9onPA4f2vsTka6LOXheCl5-pVylP=s40-c-c0x00000000-cc-rp-mo-ba3-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 3
+      },
+      "rating": 3.0,
+      "date": "Hace un año",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNlaV9tSk1nEAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICei_mJMg%7CCgwItOK3mQYQgJCAkQM%7C?hl=es-419",
+      "user": {
+        "name": "Liliana Reynoso",
+        "link": "https://www.google.com/maps/contrib/115739405265112160591?hl=es-419&sa=X&ved=2ahUKEwiYp53O1sv-AhWdlIkEHa2lCfAQvvQBegUIARClAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxbVu6mdQt3N_3sy0wz1i_h75t5AAU1E1c8n6jDgHVc=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 4,
+        "photos": 1
+      },
+      "rating": 3.0,
+      "date": "Hace 7 meses",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURXM09TLUdREAE!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgIDW3OS-GQ%7CCgwI14_PkQYQyN6M1QM%7C?hl=es-419",
+      "user": {
+        "name": "Norma Bustos",
+        "link": "https://www.google.com/maps/contrib/107860447666403555555?hl=es-419&sa=X&ved=2ahUKEwiYp53O1sv-AhWdlIkEHa2lCfAQvvQBegUIARC6AQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a/AGNmyxZwSOQZieVv-LFivNWKZ5mdiohkeuFut94UltPG=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 17,
+        "photos": 5
+      },
+      "rating": 3.0,
+      "date": "Hace un año",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNleEwyWnpRRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICexL2ZzQE%7CCgwInf_cmAYQkJKNpgI%7C?hl=es-419",
+      "user": {
+        "name": "Vicente A. Stagnetto",
+        "link": "https://www.google.com/maps/contrib/108917934066927452568?hl=es-419&sa=X&ved=2ahUKEwiYp53O1sv-AhWdlIkEHa2lCfAQvvQBegUIARDPAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5Q9CzcNHll4F7PL_0B2Kfi30qvkijFgBeKKdXUsz-8=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 4
+      },
+      "rating": 1.0,
+      "date": "Hace 7 meses",
+      "snippet": "Dejé mi cel que funcionaba bien pero tenía una falla, me lo devolvieron a los 10 días con el micro quemado, sin arreglo. Ninguna explicación, ningún pedido de disculpas (me dijeron \"vos firmaste un deslinde\")... ni la seña me devolvieron.",
+      "response": {
+        "date": "Hace 7 meses",
+        "snippet": "Buenos días Vicente. Lamentamos que no hayamos podido arreglar tu teléfono. Las reparaciones en placa son riesgosas y algunas pueden quedar sin solución como te informamos al momento de dejarnos el equipo. Con respecto a la “seña” es un pago por revisión del mismo. Para nosotros también es doloroso estar trabajando 10 días con un equipo y no poder brindar una solución. Estamos trabajando para mejorar día a día. Saludos!"
+      }
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNtNzc3TC1RRRAB!2m1!1s0x0:0x8574f08269ff7554!3m1!1s2@1:CIHM0ogKEICAgICm777L-QE%7CCgwI7ciCjwYQ8NrWkAI%7C?hl=es-419",
+      "user": {
+        "name": "Catherine",
+        "link": "https://www.google.com/maps/contrib/111830573268509835516?hl=es-419&sa=X&ved=2ahUKEwiYp53O1sv-AhWdlIkEHa2lCfAQvvQBegUIARDnAQ",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ACB-R5Q4GM55_amjBCbJiJoxabGLjJ26Wvb48lCkrUcF=s40-c-c0x00000000-cc-rp-mo-br100",
+        "reviews": 1
+      },
+      "rating": 1.0,
+      "date": "Hace un año",
+      "snippet": "No sólo no me arreglaron el problema si no que me rompieron el celu",
+      "response": {
+        "date": "Hace un año",
+        "snippet": "Hola Catherine. Lamento si no te pudimos ayudar con tu dispositivo, lamentablemente no todos los equipos tienen solución! No me figura tu nombre en el sistema para ver bien que pasó, nosotros siempre nos hacemos cargo de nuestros errores y fallas, y tratamos de mejorar día a día! Saludos"
+      }
+    }
+  ]
+}
