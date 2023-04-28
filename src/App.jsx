@@ -19,7 +19,7 @@ function App () {
         {
           categories.map(({ category, path, page }) => {
             return (
-              <Route key={category} exac path={path} element={<DefaultComponent page={page}/>} />
+              <Route key={category} exac path={path} element={<DefaultComponent page={page} logo={logo}/>} />
             );
           })
         }

@@ -6,7 +6,7 @@ import Contact from '../pages/Contact/Contact.jsx'; //eslint-disable-line
 import Advices from '../pages/Advices/Advices.jsx'; //eslint-disable-line
 import loader from '../assets/loaders/oval.svg';
 
-export default function DefaultComponent ({ page }) {
+export default function DefaultComponent ({ page, logo }) {
   const components = [
     {
       category: 'Repairs',
@@ -22,7 +22,7 @@ export default function DefaultComponent ({ page }) {
     },
     {
       category: 'AboutUs',
-      component: <AboutUs loader={loader}/>
+      component: <AboutUs loader={loader} logo={logo}/>
     },
     {
       category: 'Contact',
