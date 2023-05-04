@@ -1,0 +1,10 @@
+.socialMedia {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 0 0;
+}
+
+.links_container svg {
+  margin: 1.5rem;
+}
