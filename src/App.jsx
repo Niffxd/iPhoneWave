@@ -5,6 +5,7 @@ import DefaultComponent from './components/DefaultComponent.jsx'; //eslint-disab
 import DeviceBudget from './pages/DeviceBudget/DeviceBudget.jsx'; //eslint-disable-line
 import Home from './pages/Home/Home.jsx'; //eslint-disable-line
 import NotFound from './pages/NotFound/NotFound.jsx'; //eslint-disable-line
+import FindYourPhone from './pages/FindYourPhone/FindYourPhone.jsx'; //eslint-disable-line
 import banner from './assets/images/logo/title.png';
 import logo from './assets/images/logo/logo.png';
 import loader from './assets/loaders/oval.svg';
@@ -23,6 +24,7 @@ function App () {
             );
           })
         }
+        <Route exac path='/encuentra-tu-iphone' element={<FindYourPhone loader={loader}/>} />
         <Route exac path='/reparaciones/:device' element={<DeviceBudget loader={loader}/>} />
         <Route path='*' element={<NotFound categories={categories}/>}/>
       </Routes>
