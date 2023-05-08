@@ -5,15 +5,16 @@ export default function ContactForm () {
   const [sending, setSending] = useState(false);
   const [messageDialog, setMessageDialog] = useState('Por favor complete los campos.');
   const [form, setForm] = useState({
-    name: '',
-    email: '',
-    message: ''
+    Nombre: '',
+    Cliente: 'no',
+    Email: '',
+    Mensaje: ''
   });
 
   const handlerCheckName = event => {
     setForm({
       ...form,
-      name: event.target.value
+      Nombre: event.target.value
     });
 
     if (!event.target.value.length) document.getElementById('name').classList.add(style.show_warning);
@@ -23,7 +24,7 @@ export default function ContactForm () {
   const handlerCheckEmail = event => {
     setForm({
       ...form,
-      email: event.target.value
+      Email: event.target.value
     });
 
     if (!event.target.value.length) document.getElementById('email').classList.add(style.show_warning);
@@ -33,10 +34,26 @@ export default function ContactForm () {
     if (!event.target.value.includes('.com')) document.getElementById('emailCheck').classList.add(style.show_warning);
   };
 
+  const handleCheckClient = event => {
+    if (event.target.value === 'client') {
+      setForm({
+        ...form,
+        Cliente: 'si'
+      });
+      document.getElementById('not-client').checked = false;
+    } else {
+      setForm({
+        ...form,
+        Cliente: 'no'
+      });
+      document.getElementById('client').checked = false;
+    }
+  };
+
   const handlerCheckMessage = event => {
     setForm({
       ...form,
-      message: event.target.value
+      Mensaje: event.target.value
     });
 
     if (!event.target.value.length) document.getElementById('message').classList.add(style.show_warning);
@@ -45,7 +62,7 @@ export default function ContactForm () {
 
   const handlerEmailSend = event => {
     event.preventDefault();
-    if (!form.name.length || !form.email.length || !form.message.length) {
+    if (!form.Nombre.length || !form.Email.length || !form.Mensaje.length) {
       handlerShowModal();
     } else {
       setSending(true);
@@ -61,9 +78,10 @@ export default function ContactForm () {
           setMessageDialog('¡Gracias por tu mensaje!');
           handlerShowModal();
           setForm({
-            name: '',
-            email: '',
-            message: ''
+            Nombre: '',
+            Cliente: 'no',
+            Email: '',
+            Mensaje: ''
           });
         })
         .catch(error => console.log(error));
@@ -91,12 +109,19 @@ export default function ContactForm () {
     <div className={style.form_container}>
       <form className={style.form}>
         <h2>Mandanos un mensaje 😄</h2>
-        <input type='text' name='name' placeholder='Nombre' value={form.name} onChange={handlerCheckName}/>
+        <p className={style.client_title}>¿Ya sos cliente? 😎 </p>
+        <div className={style.client_form_container}>
+          <label htmlFor="client">Si</label>
+          <input id='client' type='radio' name='client' value='client' style={{ width: '20px', height: '20px' }} onClick={handleCheckClient}/>
+          <label htmlFor="not-client">No</label>
+          <input id='not-client' type='radio' name='not-client' defaultChecked={true} value='not-client' style={{ width: '20px', height: '20px' }} onClick={handleCheckClient}/>
+        </div>
+        <input type='text' name='name' placeholder='Nombre y Apellido' value={form.name} onChange={handlerCheckName}/>
         <p id='name' className={style.warning}>* Este campo no puede estar vacío *</p>
         <input type='text' name='email' placeholder='Email' value={form.email} onChange={handlerCheckEmail}/>
         <p id='email' className={style.warning}>* Este campo no puede estar vacío *</p>
         <p id='emailCheck' className={style.warning}>* Ingrese un correo electrónico válido *</p>
-        <input type='text' name='message' placeholder='¿En qué podemos ayudarte?' value={form.message} onChange={handlerCheckMessage}/>
+        <input type='text' id={style.message} name='message' placeholder='¿En qué podemos ayudarte?' value={form.message} onChange={handlerCheckMessage}/>
         <p id='message' className={style.warning}>* Este campo no puede estar vacío *</p>
         <button onClick={handlerEmailSend} disabled={sending}>{ sending ? 'Enviando...' : 'Enviar'}</button>
       </form>

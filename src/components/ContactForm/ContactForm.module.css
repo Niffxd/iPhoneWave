@@ -6,8 +6,9 @@
   padding: 1rem 2rem 2rem;
 }
 
-.form_container > button {
+.form_container button {
   width: 100%;
+  cursor: pointer;
 }
 
 .form_container > p {
@@ -22,7 +23,7 @@
 }
 
 .form > h2 {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .form input {
@@ -37,7 +38,7 @@
   outline: none;
 }
 
-.form input:nth-child(7) {
+#message {
   height: 10rem;
 }
 
@@ -49,6 +50,17 @@
   border: .5px solid;
   background-color: var(--color-blue);
   color: var(--color-gray);
+}
+
+.client_title {
+  text-align: start;
+}
+
+.client_form_container {
+  display: flex;
+  align-items: center;
+  padding: .5rem 0;
+  gap: 1rem;
 }
 
 .warning {
