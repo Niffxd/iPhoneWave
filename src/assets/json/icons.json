@@ -1,15 +1,58 @@
 [{
     "icon": "screen",
     "path": "./icons/screen.svg",
-    "text": "Pantalla"
+    "text": "Pantalla",
+    "tips": [
+      {
+        "title": "¿Cómo cuidar la pantalla de tu iPhone?",
+        "image": "https://www.alexphone.es/wp-content/uploads/2022/11/reparacion-pantalla-alexphone.jpeg",
+        "description": "La pantalla del iPhone es uno de los elementos más sensibles, de ahí la importancia de cuidarla. Sigue estos consejos para hacerlo.",
+        "recommendations": [
+          "Utiliza cristal templado",
+          "No cargues tu iPhone sin fundas",
+          "Escoge bien los accesorios",
+          "Evita dar el teléfono a los niños",
+          "No uses el móvil con las manos mojadas",
+          "No dejes tu iPhone en superficies inestables"
+        ]
+      }
+    ]
   },{
     "icon": "charge",
     "path": "./icons/charge.svg",
-    "text": "Batería"
+    "text": "Batería",
+    "tips": [
+      {
+        "title": "¿Cómo cuidar la batería de tu iPhone?",
+        "image": "https://d500.epimg.net/cincodias/imagenes/2020/11/18/smartphones/1605681812_576677_1605681863_noticia_normal.jpg",
+        "description": "La batería del iPhone es uno de los elementos principales, Te damos los siguientes consejos para cuidarla.",
+        "recommendations": [
+          "Administración automática del estado de la batería.",
+          "Evita las temperaturas ambiente extremas.",
+          "Utilizar cables y cabezales originales.",
+          "Si lo vas a tener guardado por mucho tiempo, déjalo con media carga.",
+          "Retira ciertas fundas durante la carga (si evitan conectar el cable correctamente)."
+        ]
+      }
+    ]
   },{
     "icon": "sound",
     "path": "./icons/sound.svg",
-    "text": "Audio"
+    "path2": "./icons/microphone.svg",
+    "text": "Audio",
+    "tips": [
+      {
+        "title": "¿Cómo cuidar el audio de tu iPhone?",
+        "image": "https://www.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_2x/public/recordovermemo.jpg",
+        "description": "El audio del iPhone te permite reproducir notas de voz, escuchas música y comunicarte en llamadas. Te damos los siguientes consejos para cuidarlo.",
+        "recommendations": [
+          "Verificar que las salidas del altavoz, audífono y micrófono no estén sucias.",
+          "Evita dejar tu iPhone cerca de líquidos.",
+          "Evita atender llamadas si estás transpirado.",
+          "No ingresar objetos punzantes en sus rejillas."
+        ]
+      }
+    ]
   },{
     "icon": "microphone",
     "path": "./icons/microphone.svg",
@@ -17,7 +60,20 @@
   },{
     "icon": "camera",
     "path": "./icons/camera.svg",
-    "text": "Cámara"
+    "text": "Cámara",
+    "tips": [
+      {
+        "title": "¿Cómo cuidar las cámaras de tu iPhone?",
+        "image": "https://cdn.shopify.com/s/files/1/0571/6744/6171/files/como-proteger-camara-iphone-13-pro-max-mini.jpg",
+        "description": "La cámara hace parte de los componentes más frágiles del iPhone. Al estar compuesta de lentes de cristal, puede deteriorarse muy fácilmente al caer. Siguiendo estos consejos reducirás mucho el riesgo de romper o rayar las lentes en caso de caída accidental.",
+        "recommendations": [
+          "Usa una funda de protección.",
+          "Usar protectores de cámaras.",
+          "Deja tu móvil sobre una base blanda.",
+          "Evita guardar tu iPhone con llaves o algún otro objeto que pueda marcarlo."
+        ]
+      }
+    ]
   },{
     "icon": "board",
     "path": "./icons/board.svg",
