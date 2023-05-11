@@ -4,9 +4,9 @@ import infoDb from '../../assets/json/reviews.json';
 import Loader from '../Loader/Loader.jsx'; //eslint-disable-line
 import style from './Reviews.module.css';
 
-export default function Reviews ({ logo }) {
+export default function Reviews ({ logo, text, stop }) {
   const [data, setData] = useState({});
-  const [endRev, setEndRev] = useState(10);
+  const [endRev, setEndRev] = useState(!stop ? 10 : 3);
 
   // const link = 'https://serpapi.com/search?engine=google_maps_reviews';
   // const dataId = '&data_id=0x94225defd95b52ef%3A0x8574f08269ff7554';
@@ -27,11 +27,12 @@ export default function Reviews ({ logo }) {
       document.getElementById('load_comments').classList.add(style.show_button);
       document.getElementById('live_comments').classList.add(style.live_button);
     } else {
-      setEndRev(endRev + 10);
+      setEndRev(endRev + 5);
     }
   };
 
   useEffect(() => {
+    window.scroll(0, 0);
     // getData(api);
     setData(infoDb.reviews);
   }, [data]);
@@ -39,7 +40,7 @@ export default function Reviews ({ logo }) {
   return !data.length
     ? <Loader />
     : <div className={style.reviews_container}>
-        <h1>Que te lo cuenten nuestros clientes 😉</h1>
+        <h1>{ !text ? 'Que te lo cuenten nuestros clientes 😉' : text }</h1>
         {
           data.slice(0, endRev).map(review => {
             return (
@@ -53,7 +54,7 @@ export default function Reviews ({ logo }) {
                 </div>
                 <div className={style.score}>
                   {
-                    Array.apply(0, Array(review.rating)).map(star => {
+                    Array.apply(0, Array(review.rating)).forEach(star => {
                       return <span>⭐</span>;
                     })
                   }
@@ -81,7 +82,11 @@ export default function Reviews ({ logo }) {
             );
           })
         }
-        <button id='load_comments' className={style.load_comments} onClick={() => setSlice()}>Cargar mas comentarios 👇</button>
+        {
+          !stop
+            ? <button id='load_comments' className={style.load_comments} onClick={() => setSlice()}>Cargar mas comentarios 👇</button>
+            : <Link to='/sobre-nosotros' className={style.live_comments}>Ver más comentarios</Link>
+        }
         <div id='live_comments' className={style.live_comments_container}>
           <p>Ups! Son todos hasta el momento 😅</p>
           <Link to={''} className={style.live_comments}>👉 Dejanos tu comentario 👈</Link>

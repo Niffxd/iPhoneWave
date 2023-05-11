@@ -16,7 +16,7 @@ function App () {
     <BrowserRouter>
       <Navbar logo={logo} banner={banner} categories={categories}/>
       <Routes>
-        <Route exac path='/' element={<Home />}/>
+        <Route exac path='/' element={<Home logo={logo} />}/>
         {
           categories.map(({ category, path, page }) => {
             return (

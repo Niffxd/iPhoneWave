@@ -10,10 +10,10 @@ export default function Repairs () {
 
   return (
     <div className={style.repairs_container}>
-      <h1>¿No encontrás tu modelo?</h1>
-      <DidYouKnow />
       <h1>¿Qué modelo de iPhone tenés?</h1>
       <ListDevices />
+      <h1>¿No encontrás tu modelo?</h1>
+      <DidYouKnow />
     </div>
   );
 }
