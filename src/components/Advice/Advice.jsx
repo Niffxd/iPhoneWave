@@ -24,7 +24,7 @@ export default function Advice ({ categories }) {
                             recommendations.map(recommendation => {
                               return (
                                 <li key={recommendation}>
-                                  {recommendations.indexOf(recommendation) + 1}. {recommendation}
+                                  <b>{recommendations.indexOf(recommendation) + 1}.</b> {recommendation}
                                 </li>
                               );
                             })
