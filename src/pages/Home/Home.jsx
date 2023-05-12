@@ -3,7 +3,7 @@ import Reviews from '../../components/Reviews/Reviews'; //eslint-disable-line
 import Repairs from '../../components/Repairs/Repairs'; //eslint-disable-line
 import Map from '../../components/Map/Map'; //eslint-disable-line
 import Schedules from '../../components/Schedules/Schedules'; //eslint-disable-line
-import background1 from '../../assets/images/home/bg-home.png';
+import background1 from '../../assets/images/home/banner.jpg';
 import style from './Home.module.css';
 
 export default function Home ({ logo }) {
