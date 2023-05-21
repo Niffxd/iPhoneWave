@@ -8,7 +8,7 @@
   background-color: var(--color-gray);
 }
 
-.advices_container > h2 {
+.questions_section h2 {
   margin: 1rem 0;
 }
 
@@ -20,4 +20,11 @@
   color: var(--color-gray);
   border-radius: 1em;
   cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .questions_section {
+    display: flex;
+    gap: 2rem;
+  }
 }

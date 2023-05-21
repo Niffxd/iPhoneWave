@@ -13,12 +13,6 @@
   padding: 1rem 0;
 }
 
-.advice_icon {
-  display: inherit;
-  align-items: center;
-  padding-bottom: .5rem;
-}
-
 .advice_icon > img {
   height: 64px;
 }
@@ -27,12 +21,16 @@
   height: 48px;
 }
 
-.advice_content > h3 {
+.advice_content h3 {
   margin: 1rem 0;
 }
 
-.advice_content > img {
+.advice_backgorund {
   width: 100%;
+  height: 250px;
+  display: block;
+  background-size: cover;
+  background-position: center;
   margin-bottom: 1rem;
 }
 
@@ -43,4 +41,28 @@
 
 .advice_content > ul {
   margin: 1rem 0 2rem;
+}
+
+@media (min-width: 500px) {
+  .advice_backgorund {
+    height: 300px;
+  }
+}
+
+@media (min-width: 768px) {
+  .advice_photo {
+    max-width: 960px;
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    margin: 1rem 0;
+  }
+
+  .advice_photo > p {
+    width: 70%;
+  }
+
+  .advice_content h3 {
+    margin: 0;
+  }
 }
