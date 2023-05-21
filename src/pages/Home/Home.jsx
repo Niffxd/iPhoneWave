@@ -16,8 +16,10 @@ export default function Home ({ logo }) {
       <Reviews logo={logo} text={'Algunos de nuestros clientes 😉'} stop={true} />
       <Repairs />
       <h2>Dónde encontrarnos</h2>
-      <Map />
-      <Schedules />
+      <div className={style.location_container}>
+        <Map />
+        <Schedules />
+      </div>
     </div>
   );
 }

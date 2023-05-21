@@ -1,5 +1,6 @@
 .banner {
   height: calc(100vh - 70px);
+  max-height: 900px;
   display: flex;
   justify-content: flex-start;
   align-items: flex-end;
@@ -22,4 +23,10 @@
   padding: 0 2rem;
   color: var(--color-white);
   text-shadow: var(--color-blue) 1px 0 10px;
+}
+
+@media (min-width: 1024px) {
+  .info > h1 {
+    padding: 0 22rem;
+  }
 }

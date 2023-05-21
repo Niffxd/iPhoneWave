@@ -12,21 +12,23 @@ export default function Repairs () {
         <p>¡Te ofrecemos garantías de hasta 90 días en todas nuestras reparaciones!</p>
       </div>
       <h2>¿Qué reparamos?</h2>
-      <div className={style.icons_container}>
-        {
-          icons.map(({ icon, path, text }) => {
-            return (
-              <div key={icon} className={style.home_icon}>
-                <img src={path} alt={icon} width={64}/>
-                <h4>{text}</h4>
-              </div>
-            );
-          })
-        }
+      <div className={style.repairs_container}>
+        <div className={style.icons_container}>
+          {
+            icons.map(({ icon, path, text }) => {
+              return (
+                <div key={icon} className={style.home_icon}>
+                  <img src={path} alt={icon} width={64}/>
+                  <h4>{text}</h4>
+                </div>
+              );
+            })
+          }
+        </div>
+        <Link to='/reparaciones'>
+          <button className={style.request}>Solicitar Presupuesto</button>
+        </Link>
       </div>
-      <Link to='/reparaciones'>
-        <button className={style.request}>Solicitar Presupuesto</button>
-      </Link>
     </div>
   );
 }

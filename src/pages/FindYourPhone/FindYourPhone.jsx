@@ -1,11 +1,16 @@
+import { useEffect } from 'react';
 import { Link } from 'react-router-dom'; //eslint-disable-line
 import style from './FindYourPhone.module.css';
 
 export default function FindYourPhone () {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div className={style.find_your_phone_container}>
       <h1>Pasos para identificar tu iPhone</h1>
-      <iframe className={style.video} src='https://www.youtube.com/embed/82Nzx0nk7U4' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>
+      <iframe className={style.video} src='https://www.youtube.com/embed/82Nzx0nk7U4' title='YouTube video player' frameBorder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowFullScreen></iframe>
       <Link to='/reparaciones'>
         <button>
           Volver

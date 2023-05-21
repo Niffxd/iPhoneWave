@@ -6,7 +6,7 @@ import style from './Reviews.module.css';
 
 export default function Reviews ({ logo, text, stop }) {
   const [data, setData] = useState({});
-  const [endRev, setEndRev] = useState(!stop ? 10 : 3);
+  const [endRev, setEndRev] = useState(!stop ? 10 : 4);
 
   // const link = 'https://serpapi.com/search?engine=google_maps_reviews';
   // const dataId = '&data_id=0x94225defd95b52ef%3A0x8574f08269ff7554';
@@ -41,47 +41,49 @@ export default function Reviews ({ logo, text, stop }) {
     ? <Loader />
     : <div className={style.reviews_container}>
         <h1>{ !text ? 'Que te lo cuenten nuestros clientes 😉' : text }</h1>
-        {
-          data.slice(0, endRev).map(review => {
-            return (
-              <Link key={review.link} to={review.link} className={style.review_container} target='_blank'>
-                <div className={style.user_container}>
-                  <img src={review.user.thumbnail} alt={review.user.name} />
-                  <div className={style.user_info}>
-                    <h3>{review.user.name}</h3>
-                    <p>{review.user.local_guide ? 'Guía local · ' : ''}{review.user.reviews} opiniones</p>
-                  </div>
-                </div>
-                <div className={style.score}>
-                  {
-                    Array.apply(0, Array(review.rating)).forEach(star => {
-                      return <span>⭐</span>;
-                    })
-                  }
-                  <p>- {review.date}</p>
-                </div>
-                <div className={style.review_content}>
-                  <p>{review.snippet ? review.snippet : <em>Sin comentarios...</em>}</p>
-                </div>
-                <span>{review.likes ? `❤️${review.likes}` : '❤️ 0'}</span>
-                {
-                  review.response
-                    ? <div className={style.response_container}>
-                        <div className={style.user_container_response}>
-                          <img src={logo} alt='logo'/>
-                          <div className={style.user_info_response}>
-                            <h3>{infoDb.place_info.title}</h3>
-                            <p>{infoDb.place_info.rating} ⭐ · {infoDb.place_info.reviews} opiniones</p>
-                          </div>
-                        </div>
-                        <p>{review.response.snippet}</p>
+        <div className={style.reviews_content}>
+          {
+            data.slice(0, endRev).map(review => {
+              return (
+                <Link key={review.link} to={review.link} className={style.review_container} target='_blank'>
+                  <div className={style.user_container}>
+                    <img src={review.user.thumbnail} alt={review.user.name} />
+                    <div className={style.user_info}>
+                      <h3>{review.user.name}</h3>
+                      <p>{review.user.local_guide ? 'Guía local · ' : ''}{review.user.reviews} opiniones</p>
                     </div>
-                    : ''
-                }
-              </Link>
-            );
-          })
-        }
+                  </div>
+                  <div className={style.score}>
+                    {
+                      Array.apply(0, Array(review.rating)).forEach(star => {
+                        return <span>⭐</span>;
+                      })
+                    }
+                    <p>- {review.date}</p>
+                  </div>
+                  <div className={style.review_content}>
+                    <p>{review.snippet ? review.snippet : <em>Sin comentarios...</em>}</p>
+                  </div>
+                  <span>{review.likes ? `❤️${review.likes}` : '❤️ 0'}</span>
+                  {
+                    review.response
+                      ? <div className={style.response_container}>
+                          <div className={style.user_container_response}>
+                            <img src={logo} alt='logo'/>
+                            <div className={style.user_info_response}>
+                              <h3>{infoDb.place_info.title}</h3>
+                              <p>{infoDb.place_info.rating} ⭐ · {infoDb.place_info.reviews} opiniones</p>
+                            </div>
+                          </div>
+                          <p>{review.response.snippet}</p>
+                      </div>
+                      : ''
+                  }
+                </Link>
+              );
+            })
+          }
+        </div>
         {
           !stop
             ? <button id='load_comments' className={style.load_comments} onClick={() => setSlice()}>Cargar mas comentarios 👇</button>

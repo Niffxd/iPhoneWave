@@ -21,3 +21,14 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media (min-width: 600px) {
+  .schedules_container > h2 {
+    font-size: 1.8rem;
+  }
+
+  .schedules {
+    width: 300px;
+    font-size: 1.2rem;
+  }
+}
