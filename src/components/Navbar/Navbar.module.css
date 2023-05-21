@@ -104,3 +104,52 @@
     opacity: 1;
   }
 }
+
+
+@media (min-width: 1024px) {
+  .navbar_container {
+    justify-content: flex-start;
+    gap: 3rem;
+  }
+
+  .img_banner {
+    display: none;
+  }
+
+  .navbar_content {
+    width: 100%;
+    display: inherit;
+    justify-content: flex-end;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .menu_links {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .link {
+    margin: 0;
+  }
+}
+
+@media (min-width: 1440px) {
+  .img_banner {
+    display: block;
+    margin-left: 1rem;
+  }
+
+  .link > li {
+    font-size: 1rem;
+    font-weight: 600;
+  }
+
+  .link {
+    text-align: center;
+    margin: 0 .5rem;
+  }
+}

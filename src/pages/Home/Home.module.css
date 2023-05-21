@@ -7,3 +7,21 @@
   margin: 1rem 0 2rem;
   text-align: center;
 }
+
+@media (min-width: 768px) {
+  .location_container {
+    display: flex;
+    justify-content: center;
+    padding: 0 0 3rem;
+  }
+
+  .location_container > div {
+    width: 50%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .location_container {
+    padding: 1rem 5rem 3rem;
+  }
+}
