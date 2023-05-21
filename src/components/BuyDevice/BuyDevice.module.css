@@ -42,3 +42,12 @@
 #device-3 {
   background-position-x: center;
 }
+
+@media (min-width: 1024px) {
+  #device-0,
+  #device-1,
+  #device-2,
+  #device-3 {
+    background-position: center;
+  }
+}

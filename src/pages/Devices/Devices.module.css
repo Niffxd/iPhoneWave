@@ -15,3 +15,9 @@
   margin: 1rem 2rem 2rem;
   text-align: center;
 }
+
+@media (min-width: 768px) {
+  .devices_container > p {
+    width: 60%;
+  }
+}
