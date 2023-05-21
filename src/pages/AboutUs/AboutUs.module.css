@@ -7,22 +7,38 @@
 }
 
 .about_us_content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   padding: 0 2rem;
 }
 
 .about_us_content > img {
   width: 100%;
+  max-width: 486px;
+  max-height: 600px;
   border-radius: 2rem;
   margin: 1rem 0;
 }
 
-.about_us_content > h2 {
+.photo_description > h2 {
   text-align: center;
   font-size: 1.5rem;
   margin-bottom: 1rem;
 }
 
-.about_us_content > p {
+.photo_description > p {
   text-align: center;
   font-size: 1.2rem;
+}
+
+@media (min-width: 768px) {
+  .about_us_content {
+    flex-direction: row;
+    gap: 2rem;
+  }
+
+  .about_us_content > img {
+    width: 60%;
+  }
 }
