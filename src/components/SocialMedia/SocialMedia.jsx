@@ -3,7 +3,7 @@ import style from './SocialMedia.module.css';
 
 export default function SocialMedia () {
   return (
-    <div className={style.socialMedia}>
+    <div className={style.social_media}>
       <h2>¡Seguinos en nuestras redes!</h2>
       <div className={style.links_container}>
         <Link to='https://www.facebook.com/IPhoneWave' target='_blank'>
