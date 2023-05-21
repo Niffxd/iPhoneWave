@@ -11,3 +11,9 @@
 .repairs_container > h1 {
   margin-bottom: 1rem;
 }
+
+@media (min-width: 768px) {
+  .repairs_container > h1{
+    margin-bottom: 2rem;
+  }
+}
