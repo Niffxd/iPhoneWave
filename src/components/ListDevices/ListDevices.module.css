@@ -35,7 +35,7 @@
   margin: 3rem 0 0;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 700px) {
   .list_devices_container {
     flex-direction: row;
     justify-content: space-between;
