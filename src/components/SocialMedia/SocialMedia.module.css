@@ -1,10 +1,17 @@
-.socialMedia {
+.social_media {
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
   padding: 2rem 0 0;
 }
 
 .links_container svg {
   margin: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .social_media {
+    width: 30%;
+  }  
 }
