@@ -13,12 +13,18 @@ export default function Accessories ({ loader }) {
     ? <div className={style.loader_container}>
         <img src={loader} alt='loading...' />
       </div>
-    : components.map(component => {
-      return (
-        <div key={component.category} className={style.category_container}>
-          <h1>{component.category}</h1>
-          <Accessory component={component}/>
-        </div>
-      );
-    });
+    : <div className={style.accessories_container}>
+      {
+        components.map(component => {
+          return (
+            <div key={component.category} className={style.category_title_content}>
+              <h1>{component.category}</h1>
+              <div className={style.category_container}>
+                <Accessory component={component}/>
+              </div>
+            </div>
+          );
+        })
+      }
+      </div>;
 }

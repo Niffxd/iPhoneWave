@@ -11,7 +11,7 @@
   border-radius: 1rem;
   border: 3px solid var(--color-blue);
   margin: 1rem 0;
-  background-color: #fdfdfd;
+  background-color: var(--color-white);
 }
 
 .list_devices_container > a {
@@ -28,4 +28,38 @@
 .device_img {
   width: 150px;
   margin: 2rem 0;
+}
+
+.did_you_know {
+  width: 100%;
+  margin: 3rem 0 0;
+}
+
+@media (min-width: 700px) {
+  .list_devices_container {
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .device_container {
+    min-width: 150px;
+    width: 190px;
+    border-radius: 1rem;
+    border: 3px solid var(--color-blue);
+    margin: 0;
+    background-color: var(--color-white);
+  }
+
+  .device_img {
+    width: auto;
+    height: 200px;
+    margin: 1rem;
+  }
+
+  .did_you_know {
+    width: fit-content;
+    margin: 3rem auto 0;
+  }
 }

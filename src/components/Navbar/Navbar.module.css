@@ -132,12 +132,21 @@
     gap: 1rem;
   }
 
+  .show-menu-links {
+    flex-direction: row;
+    position: initial;
+    padding: 0;
+    background-color: transparent;
+    animation: none;
+    justify-content: flex-end;
+  }
+
   .link {
     margin: 0;
   }
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 1250px) {
   .img_banner {
     display: block;
     margin-left: 1rem;

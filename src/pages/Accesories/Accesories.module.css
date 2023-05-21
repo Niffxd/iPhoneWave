@@ -1,8 +1,24 @@
-.category_container {
+.category_title_content {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 2rem 0 0;
   color: var(--color-blue);
   background-color: var(--color-gray);
+}
+
+.accessories_container {
+  padding: 1rem 0;
+  background-color: var(--color-gray);
+}
+
+.category_container {
+  display: flex;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  .category_container {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
 }
