@@ -31,8 +31,8 @@
 .icons_container {
   width: 100%;
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
-  justify-content: space-evenly;
   padding: 2rem 3rem;
 }
 
@@ -85,6 +85,17 @@
   .icons_container {
     width: auto;
     padding: 0;
-    gap: 1rem;
+    flex-wrap: nowrap;
+    gap: 2rem;
+  }
+
+  .request {
+    margin: 0;
+  }
+}
+
+@media (min-width: 1200px) {
+  .icons_container {
+    gap: 4rem;
   }
 }

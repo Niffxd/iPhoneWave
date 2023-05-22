@@ -1,11 +1,18 @@
 .find_your_phone_container {
+  min-height: calc(100vh - 325px);
   display: flex;
   flex-direction: column;
+  justify-content: flex-start;
   align-items: center;
   text-align: center;
   padding: 2rem;
   background-color: var(--color-gray);
   color: var(--color-blue);
+  gap: 3rem;
+}
+
+.buttons {
+  margin-top: 2rem;
 }
 
 .video_container {
@@ -37,10 +44,9 @@
 
 .video {
   width: 100%;
-  max-width: 500px;
+  height: 20rem;
+  max-width: 600px;
   min-height: 150px;
-  height: 16rem;
-  margin: 2rem 0;
 }
 
 
@@ -49,5 +55,9 @@
     flex-direction: row;
     align-items: center;
     gap: 2rem;
+  }
+
+  .buttons {
+    margin: 0;
   }
 }
