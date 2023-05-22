@@ -19,10 +19,17 @@ export default function Advice ({ categories }) {
                     return (
                       <div key={title} className={style.advice_content}>
                         <h3>{title}</h3>
-                        <div className={style.advice_photo}>
-                          <span className={style.advice_backgorund} style={{ backgroundImage: `url(${image})` }} alt={icon} />
-                          <p>{description}</p>
-                        </div>
+                        {
+                          text === 'Pantalla' || text === 'Audio'
+                            ? <div className={style.advice_photo}>
+                                <span className={style.advice_backgorund} style={{ backgroundImage: `url(${image})` }} alt={icon} />
+                                <p>{description}</p>
+                              </div>
+                            : <div className={style.advice_photo}>
+                                <p>{description}</p>
+                                <span className={style.advice_backgorund} style={{ backgroundImage: `url(${image})` }} alt={icon} />
+                              </div>
+                        }
                         <ul>
                           {
                             recommendations.map(recommendation => {
