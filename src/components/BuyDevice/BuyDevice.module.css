@@ -1,5 +1,6 @@
 .device_content {
-  height: 600px;
+  min-height: 600px;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -49,5 +50,9 @@
   #device-2,
   #device-3 {
     background-position: center;
+  }
+
+  #device-1 {
+    background-position-y: bottom;
   }
 }
