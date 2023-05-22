@@ -36,6 +36,7 @@
   .about_us_content {
     flex-direction: row;
     gap: 2rem;
+    padding: 1rem 5rem;
   }
 
   .about_us_content > img {
