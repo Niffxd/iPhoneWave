@@ -13,14 +13,22 @@
   align-items: center;
   text-align: center;
   gap: 1rem;
-  padding: 20px 20px 80px;
+  padding: 20px 40px 80px;
   color: var(--color-gray);
   background: linear-gradient(var(--color-blue), transparent);
+  text-shadow: -1px 1px 0 var(--color-blue),
+                          1px 1px 0 var(--color-blue),
+                         1px -1px 0 var(--color-blue),
+                        -1px -1px 0 var(--color-blue);
 }
 
 @media (min-width: 768px) {
   .item_content {
     width: 33%;
+  }
+
+  .item_description {
+    font-size: 1.1rem;
   }
 }
 
