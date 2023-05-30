@@ -23,3 +23,15 @@
     width: 33%;
   }
 }
+
+@media (min-width: 1240px) {
+  .item_content {
+    height: 500px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .item_content {
+    height: 600px;
+  }
+}

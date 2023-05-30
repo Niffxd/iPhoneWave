@@ -16,6 +16,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   /* font-family: 'Raleway', sans-serif; */
+  scroll-behavior: smooth;
 }
 
 a {

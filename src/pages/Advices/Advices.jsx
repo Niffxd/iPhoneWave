@@ -18,7 +18,7 @@ export default function Advices () {
         <div className={style.question_content}>
           <h2>¿Necesitas asesoramiento? 😄</h2>
           <Link to='https://api.whatsapp.com/message/2INV3MBYA7HVP1?autoload=1&app_absent=0' target='_blank'>
-            <button className={style.request}>Envianos un mensaje</button>
+            <button className={style.request}>Envianos un mensaje 🔧</button>
           </Link>
         </div>
         <div className={style.question_content}>
