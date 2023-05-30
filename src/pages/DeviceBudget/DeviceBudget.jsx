@@ -17,7 +17,7 @@ export default function DeviceBudget ({ loader }) {
   };
 
   useEffect(() => {
-    window.scroll(0, 0);
+    window.scrollTo(0, 0);
     state && setDevice(state);
     if (state === null) navigate('*');
     document.getElementById(0)?.classList?.add(style.active);
@@ -89,6 +89,20 @@ export default function DeviceBudget ({ loader }) {
                         <li className={style.parts_item}>
                           <p>Batería</p>
                           <p>$ {new Intl.NumberFormat('de-DE').format(device.parts.battery)}</p>
+                        </li>
+                    }
+                    {
+                      device.parts.glass &&
+                        <li className={style.parts_item}>
+                          <p>Vidrio trasero</p>
+                          <p>$ {new Intl.NumberFormat('de-DE').format(device.parts.glass)}</p>
+                        </li>
+                    }
+                    {
+                      device.parts.case &&
+                        <li className={style.parts_item}>
+                          <p>Carcasa</p>
+                          <p>$ {new Intl.NumberFormat('de-DE').format(device.parts.case)}</p>
                         </li>
                     }
                     {

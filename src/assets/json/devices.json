@@ -232,7 +232,6 @@
           "original": 33800
         },
         "battery": 15600,
-        "case": 0,
         "earpiece": 3850,
         "camera": {
           "front": 9580,
@@ -270,7 +269,6 @@
           "original": 41100
         },
         "battery": 16800,
-        "case": 0,
         "earpiece": 5500,
         "camera": {
           "front": 12006,
@@ -678,6 +676,7 @@
         }
       },
       "parts": {
+        "glass": 46000,
         "lens": 11550
       },
       "services": {
@@ -858,7 +857,6 @@
         },
         "battery": 54500,
         "glass": 54400,
-        "case": 0,
         "camera": {
           "rear": 51975
         },
@@ -892,7 +890,6 @@
       "parts": {
         "battery": 62900,
         "glass": 59300,
-        "case": 0,
         "lens": 22000,
         "port": 50000
       },
@@ -923,7 +920,6 @@
       "parts": {
         "battery": 71400,
         "glass": 67800,
-        "case": 0,
         "lens": 22000,
         "port": 55000
       },

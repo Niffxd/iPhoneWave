@@ -13,6 +13,7 @@
   color: var(--color-gray);
 }
 
+
 .footer_logo {
   display: flex;
   flex-direction: column;
@@ -31,6 +32,10 @@
 .links_container svg {
   width: 32px;
   margin: 2rem .7rem;
+}
+
+.info_container p > a {
+  text-decoration: underline;
 }
 
 .wp {

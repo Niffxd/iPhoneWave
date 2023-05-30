@@ -4,16 +4,18 @@ import style from './Footer.module.css';
 export default function Footer ({ logo, banner }) {
   return (
     <footer className={style.footer_container}>
-      <div className={style.footer_logo}>
-        <img src={logo} alt='logo-footer'/>
-        <img src={banner} alt='banner-footer'/>
-      </div>
+      <Link to='/' onClick={() => window.scrollTo(0, 0)}>
+        <div className={style.footer_logo}>
+          <img src={logo} alt='logo-footer'/>
+          <img src={banner} alt='banner-footer'/>
+        </div>
+      </Link>
       <div className={style.contact_container}>
         <div className={style.info_container}>
           <h3>CONTACTO</h3>
           <p>Av. Aconquija 229</p>
           <p>Yerba Buena, Tucumán</p>
-          <p>Tel: +54 381 319 4002</p>
+          <p>Tel: <a href='tel:+5493813194002'>+54 381 319 4002</a></p>
         </div>
         <div className={style.links_container}>
           {/* <h3>SIGUENOS</h3> */}
