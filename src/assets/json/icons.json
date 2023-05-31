@@ -9,7 +9,7 @@
         "description": "La pantalla del iPhone es uno de los elementos más sensibles, de ahí la importancia de cuidarla. Sigue estos consejos para hacerlo.",
         "recommendations": [
           "Utiliza cristal templado / hidrogel",
-          "No cargues tu iPhone sin fundas",
+          "Siempre usá tu iPhone con fundas",
           "Escoge bien los accesorios",
           "Evita dar el teléfono a los niños",
           "No uses el móvil con las manos mojadas",
@@ -27,11 +27,12 @@
         "image": "https://d500.epimg.net/cincodias/imagenes/2020/11/18/smartphones/1605681812_576677_1605681863_noticia_normal.jpg",
         "description": "La batería del iPhone es uno de los elementos principales, Te damos los siguientes consejos para cuidarla.",
         "recommendations": [
-          "Administración automática del estado de la batería.",
+          "Siempre respetar el ciclo de carga desde un 15 % hasta el 100 % sin interrumpciones.",
           "Evita las temperaturas ambiente extremas.",
+          "Evitá utilizar tu iPhone mientras se carga, sobre todo con juegos o series.",
           "Utilizar cables y cabezales originales.",
           "Si lo vas a tener guardado por mucho tiempo, déjalo con media carga.",
-          "Retira ciertas fundas durante la carga (si evitan conectar el cable correctamente)."
+          "Revisá siempre que el cable se conecte correctamente. Ya que es normal que con el tiempo se ensucie."
         ]
       }
     ]
@@ -78,5 +79,24 @@
     "icon": "board",
     "path": "./icons/board.svg",
     "text": "Placa"
+  },
+  {
+    "icon": "airpods",
+    "path": "./icons/airpods.png",
+    "text": "AirPods",
+    "tips": [
+      {
+        "title": "¿Cómo cuidar tus AirPods?",
+        "image": "https://www.igeeksblog.com/wp-content/uploads/2022/11/How-to-clean-your-AirPods-Pro.jpg",
+        "description": "Los AirPods son de los mejores accesorios con los que podés equipar tu iPhone, y estos a su vez también llevan su cuidado para siempre tenerlos listos para escuchar tú música en cualquier momento. Te damos unos tips para su mantenimiento.",
+        "recommendations": [
+          "Limpialos utilizando un paño suave y seco para su superficie. También se puede usar un cepillo pequeño y suave para limpiar los micrófonos y los altavoces.",
+          "Evita usar tus AirPods en la lluvia o en ambientes húmedos.",
+          "Siempre guardalos en su estuche para protegerlos de golpes y arañazos.",
+          "Para cuidar su batería no los cargues durante períodos excesivamente largos.",
+          "Evita exponer tus AirPods a temperaturas extremas."
+        ]
+      }
+    ]
   }
 ]

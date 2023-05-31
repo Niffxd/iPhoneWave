@@ -21,6 +21,10 @@
   height: 48px;
 }
 
+.advice_content {
+  max-width: 960px;
+}
+
 .advice_content h3 {
   margin: 1rem 0;
 }

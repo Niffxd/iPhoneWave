@@ -91,7 +91,7 @@ export default function Reviews ({ logo, text, stop }) {
         }
         <div id='live_comments' className={style.live_comments_container}>
           <p>Ups! Son todos hasta el momento 😅</p>
-          <Link to={''} className={style.live_comments}>👉 Dejanos tu comentario 👈</Link>
+          <Link to={'https://g.page/r/CVR1_2mC8HSFEBM/review'} className={style.live_comments} target='_blank'>👉 Dejanos tu comentario 👈</Link>
         </div>
       </div>;
 }
