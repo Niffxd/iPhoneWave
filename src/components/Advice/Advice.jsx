@@ -20,7 +20,7 @@ export default function Advice ({ categories }) {
                       <div key={title} className={style.advice_content}>
                         <h3>{title}</h3>
                         {
-                          text === 'Pantalla' || text === 'Audio'
+                          text === 'Pantalla' || text === 'Audio' || text === 'AirPods'
                             ? <div className={style.advice_photo}>
                                 <span className={style.advice_backgorund} style={{ backgroundImage: `url(${image})` }} alt={icon} />
                                 <p>{description}</p>

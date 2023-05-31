@@ -16,7 +16,8 @@ export default function Repairs () {
         <div className={style.icons_container}>
           {
             icons.map(({ icon, path, text }) => {
-              return (
+              return icon !== 'airpods' &&
+              (
                 <div key={icon} className={style.home_icon}>
                   <img src={path} alt={icon} width={64}/>
                   <h4>{text}</h4>
