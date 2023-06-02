@@ -3,9 +3,7 @@ import { Link } from 'react-router-dom'; //eslint-disable-line
 import style from './FindYourPhone.module.css';
 
 export default function FindYourPhone () {
-  useEffect(() => {
-    window.scrollTo(0, 0);
-  }, []);
+  useEffect(() => window.scrollTo(0, 0), []);
 
   return (
     <div className={style.find_your_phone_container}>
