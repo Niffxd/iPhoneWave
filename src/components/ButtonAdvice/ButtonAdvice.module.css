@@ -1,11 +1,12 @@
 .request {
   padding: 10px 20px;
-  font-size: 1em;
-  border: none;
+  font-size: 1rem;
   background-color: var(--color-blue);
   color: var(--color-gray);
-  border-radius: 1em;
+  border-radius: 1rem;
   cursor: pointer;
+  margin-bottom: 2rem;
+  border: 2px solid var(--color-skyblue);
 }
 
 .tips_content {
@@ -28,5 +29,10 @@
 @media (min-width: 1024px) {
   .tips_content {
     width: 500px;
+  }
+
+  .request:hover {
+    box-shadow: 3px 5px 5px var(--color-black);
+    transition: box-shadow .1s ease-in;
   }
 }
