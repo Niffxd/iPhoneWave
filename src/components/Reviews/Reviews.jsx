@@ -64,7 +64,7 @@ export default function Reviews ({ logo, text, stop }) {
                   <div className={style.review_content}>
                     <p>{review.snippet ? review.snippet : <em>Sin comentarios...</em>}</p>
                   </div>
-                  <span>{review.likes ? `❤️${review.likes}` : '❤️ 0'}</span>
+                  <span>{review.likes ? `❤️ ${review.likes}` : '❤️ 0'}</span>
                   {
                     review.response
                       ? <div className={style.response_container}>
