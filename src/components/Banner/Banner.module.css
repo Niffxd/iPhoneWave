@@ -1,6 +1,6 @@
 .banner {
   height: calc(100vh - 70px);
-  max-height: 900px;
+  max-height: 700px;
   display: flex;
   justify-content: flex-start;
   align-items: flex-end;
@@ -28,5 +28,17 @@
 @media (min-width: 1024px) {
   .info > h1 {
     padding: 0 22rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .banner {
+    max-height: 700px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .banner {
+    max-height: 900px;
   }
 }

@@ -17,10 +17,14 @@
 
 .more_help {
   align-self: center;
-  padding: .5rem 1rem;
-  border-radius: 1rem;
-  color: var(--color-gray);
+  padding: 10px 20px;
+  font-size: 1rem;
   background-color: var(--color-blue);
+  color: var(--color-gray);
+  border-radius: 1rem;
+  cursor: pointer;
+  margin-bottom: 2rem;
+  border: 2px solid var(--color-skyblue);
 }
 
 #device-1 {
@@ -32,8 +36,8 @@
 }
 
 #device-1 > a {
-  color: var(--color-blue);
-  background-color: var(--color-gray);
+  color: var(--color-black);
+  background-color: var(--color-white);
 }
 
 #device-2 > h1 {
@@ -54,5 +58,15 @@
 
   #device-1 {
     background-position-y: bottom;
+  }
+
+  #device-1 > a:hover,
+  #device-2 > a:hover {
+    box-shadow: 3px 3px 5px var(--color-gray);
+  }
+
+  .more_help:hover {
+    box-shadow: 3px 5px 5px var(--color-black);
+    transition: box-shadow .1s ease-in;
   }
 }

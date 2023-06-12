@@ -31,7 +31,7 @@
 .icons_container {
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   flex-wrap: wrap;
   padding: 2rem 3rem;
 }
@@ -48,12 +48,12 @@
 .request {
   padding: 10px 20px;
   font-size: 1rem;
-  border: none;
   background-color: var(--color-blue);
   color: var(--color-gray);
   border-radius: 1rem;
   cursor: pointer;
   margin-bottom: 2rem;
+  border: 2px solid var(--color-skyblue);
 }
 
 @media (min-width: 600px) {
@@ -75,11 +75,10 @@
 @media (min-width: 1024px) {
   .repairs_container {
     width: 100%;
-    flex-direction: row;
     justify-content: center;
     align-items: center;
     padding: 2rem 0;
-    gap: 4rem;
+    gap: 2rem;
   }
 
   .icons_container {
@@ -91,6 +90,11 @@
 
   .request {
     margin: 0;
+  }
+
+  .request:hover {
+    box-shadow: 3px 5px 5px var(--color-black);
+    transition: box-shadow .1s ease-in;
   }
 }
 
