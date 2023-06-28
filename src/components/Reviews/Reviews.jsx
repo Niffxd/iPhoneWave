@@ -55,8 +55,8 @@ export default function Reviews ({ logo, text, stop }) {
                   </div>
                   <div className={style.score}>
                     {
-                      Array.apply(0, Array(review.rating)).forEach(star => {
-                        return <span>⭐</span>;
+                      Array.from({ length: review.rating }, (star, index) => '⭐').map((star, index) => {
+                        return <span key={review.user.name + index}>{star}</span>;
                       })
                     }
                     <p>- {review.date}</p>
