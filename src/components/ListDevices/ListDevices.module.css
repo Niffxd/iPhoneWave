@@ -38,7 +38,7 @@
 @media (min-width: 700px) {
   .list_devices_container {
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex-wrap: wrap;
     gap: 1rem;
   }
