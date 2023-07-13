@@ -8,12 +8,16 @@ export default function DeviceBudget ({ loader }) {
   const [device, setDevice] = useState({});
   const [variation, setVariation] = useState(0);
 
-  const handleColorDevice = (index, length) => {
+  const handleColorDevice = (index, length, color, colors) => {
     setVariation(index);
     for (let i = 0; i < length; i++) {
       document.getElementById(i).classList?.remove(style.active);
     }
+    for (let i = 0; i < colors.length; i++) {
+      document.getElementById(colors[i]).classList?.remove(style.active_color);
+    }
     document.getElementById(index).classList.add(style.active);
+    document.getElementById(color).classList.add(style.active_color);
   };
 
   useEffect(() => {
@@ -21,6 +25,7 @@ export default function DeviceBudget ({ loader }) {
     state && setDevice(state);
     if (state === null) navigate('*');
     document.getElementById(0)?.classList?.add(style.active);
+    document.getElementById(device.images?.variations[0])?.classList?.add(style.active_color);
   }, [device]);
 
   return !device.model
@@ -33,7 +38,7 @@ export default function DeviceBudget ({ loader }) {
             <h3>{'<'} Listado</h3>
           </Link>
           {/* <Link to='specs'>
-            <h3>Epecificaciones{' >'}</h3>
+            <h3>Especificaciones{' >'}</h3>
           </Link> */}
         </div>
         <div className={style.device_container}>
@@ -43,7 +48,10 @@ export default function DeviceBudget ({ loader }) {
                 {
                   device.images.variations.map(color => {
                     return (
-                      <span id={device.images.variations.indexOf(color)} key={color} className={style.device_color} style={{ backgroundColor: `${device.images.variations_colors[color]}` }} onClick={() => handleColorDevice(device.images.variations.indexOf(color), device.images.variations.length)}></span>
+                      <div className={style.color_container} key={color}>
+                        <span id={device.images.variations.indexOf(color)} className={style.device_color} style={{ backgroundColor: `${device.images.variations_colors[color]}` }} onClick={() => handleColorDevice(device.images.variations.indexOf(color), device.images.variations.length, color, device.images.variations)}></span>
+                        <p id={color} className={style.name_color}>{color.replace(/_/gi, ' ')}</p>
+                      </div>
                     );
                   })
                 }
