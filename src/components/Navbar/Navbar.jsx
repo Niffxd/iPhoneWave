@@ -39,9 +39,9 @@ export default function Navbar ({ logo, banner, categories }) {
         </button>
         <ul id='menu-links' className={style.menu_links}>
           {
-            categories.map(({ category, path }) => {
+            categories.map(({ category, path, page }) => {
               return (
-                <Link className={style.link} key={category} to={path} onClick={handleMenu}>
+                <Link className={style.link} key={category} to={path} onClick={handleMenu} target={page === 'Order' ? '_blank' : '_self'}>
                   <li>{category}</li>
                 </Link>
               );
