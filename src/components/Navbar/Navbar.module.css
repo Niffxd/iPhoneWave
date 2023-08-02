@@ -132,6 +132,11 @@
     gap: 1rem;
   }
 
+  .menu_links > a > li {
+    width: fit-content;
+    text-align: center;
+  }
+
   .show-menu-links {
     flex-direction: row;
     position: initial;
