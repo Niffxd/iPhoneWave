@@ -25,7 +25,6 @@
   width: 100%;
   display: flex;
   justify-content: space-between;
-  margin-bottom: 1rem;
 }
 
 .device_container {
@@ -94,7 +93,7 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  padding: 3rem 0 1rem;
+  padding: 2rem 0 1rem;
 }
 
 .parts_title {
@@ -117,12 +116,17 @@
 
 .warranty_adviser,
 .adviser {
-  margin: 2rem 0;
+  margin: 1rem 0;
   text-align: center;
 }
 
 .adviser {
   margin: 0 0 2rem;
+}
+
+.change_adviser {
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
 .more_help {
@@ -131,9 +135,13 @@
   align-self: center;
   text-align: center;
   padding: 1rem 2rem;
-  border-radius: 1rem;
-  color: var(--color-gray);
+  font-size: 1rem;
   background-color: var(--color-blue);
+  color: var(--color-gray);
+  border-radius: 1rem;
+  cursor: pointer;
+  margin-bottom: 2rem;
+  border: 2px solid var(--color-skyblue);
 }
 
 @media (min-width: 768px) {
@@ -150,5 +158,10 @@
 
   .adviser_container {
     max-width: 400px;
+  }
+
+  .more_help:hover {
+    box-shadow: 3px 5px 5px var(--color-black);
+    transition: box-shadow .1s ease-in;
   }
 }

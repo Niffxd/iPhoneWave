@@ -85,8 +85,7 @@ export default function DeviceBudget ({ loader }) {
                               }
                             </p>
                             <p>
-                              {lcd[1] < 2000 ? 'USD ' : '$ '}
-                              {new Intl.NumberFormat('de-DE').format(lcd[1])}
+                              {new Intl.NumberFormat('de-DE').format(lcd[1])} USD
                             </p>
                           </li>
                         );
@@ -96,21 +95,21 @@ export default function DeviceBudget ({ loader }) {
                       device.parts.battery &&
                         <li className={style.parts_item}>
                           <p>Batería</p>
-                          <p>$ {new Intl.NumberFormat('de-DE').format(device.parts.battery)}</p>
+                          <p>{new Intl.NumberFormat('de-DE').format(device.parts.battery)} USD</p>
                         </li>
                     }
                     {
                       device.parts.glass &&
                         <li className={style.parts_item}>
                           <p>Vidrio trasero</p>
-                          <p>$ {new Intl.NumberFormat('de-DE').format(device.parts.glass)}</p>
+                          <p>{new Intl.NumberFormat('de-DE').format(device.parts.glass)} USD</p>
                         </li>
                     }
                     {
                       device.parts.case &&
                         <li className={style.parts_item}>
                           <p>Carcasa</p>
-                          <p>$ {new Intl.NumberFormat('de-DE').format(device.parts.case)}</p>
+                          <p>{new Intl.NumberFormat('de-DE').format(device.parts.case)} USD</p>
                         </li>
                     }
                     {
@@ -125,9 +124,7 @@ export default function DeviceBudget ({ loader }) {
                                   : ' trasera'
                               }
                             </p>
-                            <p>
-                              $ {new Intl.NumberFormat('de-DE').format(cam[1])}
-                            </p>
+                            <p>{new Intl.NumberFormat('de-DE').format(cam[1])} USD</p>
                           </li>
                         );
                       })
@@ -136,12 +133,15 @@ export default function DeviceBudget ({ loader }) {
                       device.parts.lens &&
                         <li className={style.parts_item}>
                           <p>Lente de cámara</p>
-                          <p>$ {new Intl.NumberFormat('de-DE').format(device.parts.lens)}</p>
+                          <p>{new Intl.NumberFormat('de-DE').format(device.parts.lens)} ARS</p>
                         </li>
                     }
                   </ul>
                   <h4 className={style.warranty_adviser}>
                     Todos los arreglos cuentan con 90 días de garantia.*
+                  </h4>
+                  <h4 className={style.change_adviser}>
+                    (Consultar cotización del día)
                   </h4>
                   <Link className={style.more_help} to='https://api.whatsapp.com/message/2INV3MBYA7HVP1?autoload=1&app_absent=0' target='_blank'>
                     Tengo otro problema 😢
