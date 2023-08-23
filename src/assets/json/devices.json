@@ -15,19 +15,19 @@
       },
       "parts": {
         "lcd": {
-          "alternative": 8250,
-          "medium": 13100
+          "alternative": 15,
+          "medium": 25
         },
-        "battery": 9300,
+        "battery": 17,
         "camera": {
-          "front": 5470,
-          "rear": 4245
+          "front": 10,
+          "rear": 12
         },
-        "port": 5870
+        "port": 12
       },
       "services": {
-        "review": 3000,
-        "clean": 3000
+        "review": 4000,
+        "clean": 4000
       }
     },
     {
@@ -47,22 +47,22 @@
       },
       "parts": {
         "lcd": {
-          "alternative": 18150,
-          "medium": 23430,
-          "original": 28050
+          "alternative": 28,
+          "medium": 36,
+          "original": 48
         },
-        "battery": 12450,
-        "earpiece": 3575,
+        "battery": 22,
+        "earpiece": 10,
         "camera": {
-          "front": 5470,
-          "rear": 6428
+          "front": 12,
+          "rear": 12
         },
-        "lens": 4356,
-        "port": 7687
+        "lens": 4791,
+        "port": 14
       },
       "services": {
-        "review": 3000,
-        "clean": 3000
+        "review": 4000,
+        "clean": 4000
       }
     },
     {
@@ -82,22 +82,22 @@
       },
       "parts": {
         "lcd": {
-          "alternative": 19960,
-          "medium": 24970,
-          "original": 31900
+          "alternative": 32,
+          "medium": 41,
+          "original": 50
         },
-        "battery": 13860,
-        "earpiece": 3388,
+        "battery": 25,
+        "earpiece": 10,
         "camera": {
-          "front": 6403,
-          "rear": 10308
+          "front": 14,
+          "rear": 12
         },
-        "lens": 4356,
-        "port": 7687
+        "lens": 4791.60,
+        "port": 15
       },
       "services": {
-        "review": 3000,
-        "clean": 3000
+        "review": 4000,
+        "clean": 4000
       }
     },
     {
@@ -119,19 +119,19 @@
       },
       "parts": {
         "lcd": {
-          "alternative": 11770,
-          "medium": 15950
+          "alternative": 24,
+          "medium": 30
         },
-        "battery": 11100,
+        "battery": 20,
         "camera": {
-          "front": 5470,
-          "rear": 5578
+          "front": 10,
+          "rear": 12
         },
-        "port": 5870
+        "port": 11
       },
       "services": {
-        "review": 3000,
-        "clean": 3000
+        "review": 4000,
+        "clean": 4000
       }
     },
     {
@@ -153,22 +153,22 @@
       },
       "parts": {
         "lcd": {
-          "alternative": 19690,
-          "medium": 24970,
-          "original": 31900
+          "alternative": 32,
+          "medium": 41,
+          "original": 50
         },
-        "battery": 12450,
-        "earpiece": 3575,
+        "battery": 20,
+        "earpiece": 10,
         "camera": {
-          "front": 5870,
-          "rear": 6913
+          "front": 14,
+          "rear": 12
         },
-        "lens": 4356,
-        "port": 7687
+        "lens": 4791.60,
+        "port": 15
       },
       "services": {
-        "review": 3000,
-        "clean": 3000
+        "review": 4000,
+        "clean": 4000
       }
     },
     {
@@ -190,22 +190,22 @@
       },
       "parts": {
         "lcd": {
-          "alternative": 20130,
-          "medium": 26180,
-          "original": 33990
+          "alternative": 32,
+          "medium": 43,
+          "original": 53
         },
-        "battery": 13860,
-        "earpiece": 3575,
+        "battery": 26,
+        "earpiece": 10,
         "camera": {
-          "front": 7871,
-          "rear": 11279
+          "front": 16,
+          "rear": 22
         },
-        "lens": 4356,
-        "port": 8246
+        "lens": 4791.60,
+        "port": 17
       },
       "services": {
-        "review": 3000,
-        "clean": 3000
+        "review": 4000,
+        "clean": 4000
       }
     },
     {
@@ -227,22 +227,22 @@
       },
       "parts": {
         "lcd": {
-          "alternative": 22550,
-          "medium": 28600,
-          "original": 37180
+          "alternative": 37,
+          "medium": 47,
+          "original": 58
         },
-        "battery": 17160,
-        "earpiece": 4235,
+        "battery": 32,
+        "earpiece": 10,
         "camera": {
-          "front": 10539,
-          "rear": 12006
+          "front": 20,
+          "rear": 22
         },
-        "lens": 5445,
-        "port": 10900
+        "lens": 5989,
+        "port": 20
       },
       "services": {
-        "review": 3000,
-        "clean": 3000
+        "review": 4000,
+        "clean": 4000
       }
     },
     {
@@ -264,22 +264,22 @@
       },
       "parts": {
         "lcd": {
-          "alternative": 26400,
-          "medium": 35200,
-          "original": 45210
+          "alternative": 46,
+          "medium": 64,
+          "original": 78
         },
-        "battery": 18480,
-        "earpiece": 6050,
+        "battery": 35,
+        "earpiece": 10,
         "camera": {
-          "front": 13207,
-          "rear": 32623
+          "front": 24,
+          "rear": 60
         },
-        "lens": 6534,
-        "port": 13277
+        "lens": 7184,
+        "port": 25
       },
       "services": {
-        "review": 3000,
-        "clean": 3000
+        "review": 4000,
+        "clean": 4000
       }
     },
     {
@@ -299,24 +299,24 @@
       },
       "parts": {
         "lcd": {
-          "alternative": 27500,
-          "medium": 30470,
-          "original": 41250
+          "alternative": 45,
+          "medium": 55,
+          "original": 70
         },
-        "battery": 18480,
-        "glass": 17900,
-        "case": 26400,
-        "earpiece": 4235,
+        "battery": 35,
+        "glass": 30,
+        "case": 45,
+        "earpiece": 10,
         "camera": {
-          "front": 13207,
-          "rear": 28875
+          "front": 24,
+          "rear": 50
         },
-        "lens": 5445,
-        "port": 13836
+        "lens": 5989,
+        "port": 25
       },
       "services": {
-        "review": 3000,
-        "clean": 3000
+        "review": 4000,
+        "clean": 4000
       }
     },
     {
@@ -336,24 +336,24 @@
       },
       "parts": {
         "lcd": {
-          "alternative": 29260,
-          "medium": 37950,
-          "original": 48510
+          "alternative": 52,
+          "medium": 65,
+          "original": 80
         },
-        "battery": 21940,
-        "glass": 20500,
-        "case": 28500,
-        "earpiece": 6050,
+        "battery": 37,
+        "glass": 35,
+        "case": 60,
+        "earpiece": 10,
         "camera": {
-          "front": 17075,
-          "rear": 36261
+          "front": 30,
+          "rear": 65
         },
-        "lens": 6534,
-        "port": 16631
+        "lens": 7187,
+        "port": 28
       },
       "services": {
-        "review": 3000,
-        "clean": 3000
+        "review": 4000,
+        "clean": 4000
       }
     },
     {
@@ -371,22 +371,22 @@
       },
       "parts": {
         "lcd": {
-          "medium": 65200,
-          "original": 91850
+          "medium": 115,
+          "original": 160
         },
-        "battery": 26620,
-        "glass": 24900,
-        "case": 32900,
+        "battery": 50,
+        "glass": 43,
+        "case": 63,
         "camera": {
-          "front": 22011,
-          "rear": 35776
+          "front": 35,
+          "rear": 62
         },
-        "lens": 7260,
-        "port": 20823
+        "lens": 7986,
+        "port": 38
       },
       "services": {
-        "review": 4000,
-        "clean": 4000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -412,22 +412,22 @@
       },
       "parts": {
         "lcd": {
-          "medium": 55880,
-          "original": 70500
+          "medium": 92,
+          "original": 115
         },
-        "battery": 27700,
-        "glass": 24900,
-        "case": 32900,
+        "battery": 52,
+        "glass": 43,
+        "case": 63,
         "camera": {
-          "front": 21345,
-          "rear": 32623
+          "front": 35,
+          "rear": 62
         },
-        "lens": 6050,
-        "port": 19426
+        "lens": 6655,
+        "port": 38
       },
       "services": {
-        "review": 4000,
-        "clean": 4000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -447,22 +447,22 @@
       },
       "parts": {
         "lcd": {
-          "medium": 65200,
-          "original": 91850
+          "medium": 115,
+          "original": 160
         },
-        "battery": 27700,
-        "glass": 24900,
-        "case": 32900,
+        "battery": 52,
+        "glass": 43,
+        "case": 63,
         "camera": {
-          "front": 22011,
-          "rear": 39900
+          "front": 35,
+          "rear": 75
         },
-        "lens": 7260,
-        "port": 20823
+        "lens": 7986,
+        "port": 38
       },
       "services": {
-        "review": 4000,
-        "clean": 4000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -482,22 +482,22 @@
       },
       "parts": {
         "lcd": {
-          "medium": 77200,
-          "original": 102700
+          "medium": 140,
+          "original": 200
         },
-        "battery": 27700,
-        "glass": 24900,
-        "case": 34300,
+        "battery": 52,
+        "glass": 43,
+        "case": 65,
         "camera": {
-          "front": 25213,
-          "rear": 39900
+          "front": 35,
+          "rear": 75
         },
-        "lens": 7502,
-        "port": 20823
+        "lens": 8252,
+        "port": 38
       },
       "services": {
-        "review": 4000,
-        "clean": 4000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -517,23 +517,23 @@
       },
       "parts": {
         "lcd": {
-          "alternative": 27500,
-          "medium": 30470,
-          "original": 41250
+          "alternative": 45,
+          "medium": 55,
+          "original": 70
         },
-        "battery": 26450,
-        "glass": 17900,
-        "case": 26400,
+        "battery": 45,
+        "glass": 30,
+        "case": 45,
         "camera": {
-          "front": 13207,
-          "rear": 28875
+          "front": 24,
+          "rear": 50
         },
-        "lens": 5445,
-        "port": 13836
+        "lens": 5989,
+        "port": 25
       },
       "services": {
-        "review": 3000,
-        "clean": 3000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -559,23 +559,23 @@
       },
       "parts": {
         "lcd": {
-          "medium": 65200,
-          "original": 85100
+          "medium": 110,
+          "original": 145
         },
-        "battery": 37180,
-        "glass": 33100,
-        "case": 41700,
-        "chip": 18000,
+        "battery": 65,
+        "glass": 57,
+        "case": 83,
+        "chip": 35000,
         "camera": {
-          "front": 26013,
-          "rear": 39899
+          "front": 41,
+          "rear": 75
         },
-        "lens": 7685,
-        "port": 26400
+        "lens": 8651,
+        "port": 48
       },
       "services": {
-        "review": 4000,
-        "clean": 4000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -597,23 +597,23 @@
       },
       "parts": {
         "lcd": {
-          "medium": 71800,
-          "original": 103800
+          "medium": 130,
+          "original": 195
         },
-        "battery": 39820,
-        "glass": 38700,
-        "case": 51900,
-        "chip": 20000,
+        "battery": 72,
+        "glass": 65,
+        "case": 98,
+        "chip": 40000,
         "camera": {
-          "front": 27347,
-          "rear": 53361
+          "front": 45,
+          "rear": 140
         },
-        "lens": 9075,
-        "port": 36300
+        "lens": 9982,
+        "port": 68
       },
       "services": {
-        "review": 4000,
-        "clean": 4000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -635,23 +635,23 @@
       },
       "parts": {
         "lcd": {
-          "medium": 85580,
-          "original": 130000
+          "medium": 150,
+          "original": 230
         },
-        "battery": 39820,
-        "glass": 42300,
-        "case": 55300,
-        "chip": 22000,
+        "battery": 72,
+        "glass": 70,
+        "case": 105,
+        "chip": 43000,
         "camera": {
-          "front": 28682,
-          "rear": 53361
+          "front": 48,
+          "rear": 140
         },
-        "lens": 9075,
-        "port": 38500
+        "lens": 9982,
+        "port": 70
       },
       "services": {
-        "review": 4000,
-        "clean": 4000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -676,13 +676,13 @@
         }
       },
       "parts": {
-        "glass": 46000,
-        "case": 61700,
-        "lens": 12705
+        "glass": 80,
+        "case": 115,
+        "lens": 13975
       },
       "services": {
-        "review": 5000,
-        "clean": 5000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -708,23 +708,23 @@
       },
       "parts": {
         "lcd": {
-          "medium": 230,
-          "original": 400
+          "medium": 190,
+          "original": 310
         },
-        "battery": 53130,
-        "glass": 46000,
-        "case": 61700,
-        "chip": 25000,
+        "battery": 82,
+        "glass": 80,
+        "case": 115,
+        "chip": 45000,
         "camera": {
-          "front": 38020,
-          "rear": 54574
+          "front": 60,
+          "rear": 95
         },
-        "lens": 12705,
-        "port": 49500
+        "lens": 13975,
+        "port": 75
       },
       "services": {
-        "review": 5000,
-        "clean": 5000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -746,23 +746,23 @@
       },
       "parts": {
         "lcd": {
-          "medium": 230,
-          "original": 400
+          "medium": 190,
+          "original": 310
         },
-        "battery": 53130,
-        "glass": 50800,
-        "case": 66500,
-        "chip": 25000,
+        "battery": 82,
+        "glass": 80,
+        "case": 115,
+        "chip": 45000,
         "camera": {
-          "front": 38020,
-          "rear": 86578
+          "front": 60,
+          "rear": 170
         },
-        "lens": 12705,
-        "port": 49500
+        "lens": 13975,
+        "port": 75
       },
       "services": {
-        "review": 5000,
-        "clean": 5000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -784,22 +784,22 @@
       },
       "parts": {
         "lcd": {
-          "medium": 280,
-          "original": 590
+          "medium": 200,
+          "original": 500
         },
-        "battery": 59950,
-        "glass": 54400,
-        "case": 72100,
+        "battery": 95,
+        "glass": 85,
+        "case": 135,
         "camera": {
-          "front": 46691,
-          "rear": 86578
+          "front": 68,
+          "rear": 170
         },
-        "lens": 12705,
-        "port": 49500
+        "lens": 13975,
+        "port": 78
       },
       "services": {
-        "review": 5000,
-        "clean": 5000
+        "review": 6000,
+        "clean": 6000
       }
     },
     {
@@ -824,12 +824,12 @@
         }
       },
       "parts": {
-        "glass": 54400,
-        "lens": 16335
+        "glass": 90,
+        "lens": 17968
       },
       "services": {
-        "review": 6000,
-        "clean": 6000
+        "review": 10000,
+        "clean": 10000
       }
     },
     {
@@ -857,17 +857,18 @@
         "lcd": {
           "original": 500
         },
-        "battery": 59950,
-        "glass": 54400,
+        "battery": 100,
+        "glass": 90,
+        "case": 145,
         "camera": {
-          "rear": 54574
+          "rear": 100
         },
-        "lens": 16335,
-        "port": 44000
+        "lens": 17968,
+        "port": 85
       },
       "services": {
-        "review": 6000,
-        "clean": 6000
+        "review": 10000,
+        "clean": 10000
       }
     },
     {
@@ -890,15 +891,15 @@
         }
       },
       "parts": {
-        "battery": 69190,
-        "glass": 59300,
-        "case": 68000,
-        "lens": 24200,
-        "port": 55000
+        "battery": 110,
+        "glass": 100,
+        "case": 160,
+        "lens": 26620,
+        "port": 95
       },
       "services": {
-        "review": 6000,
-        "clean": 6000
+        "review": 10000,
+        "clean": 10000
       }
     },
     {
@@ -921,15 +922,15 @@
         }
       },
       "parts": {
-        "battery": 78540,
-        "glass": 67800,
-        "case": 75000,
-        "lens": 24200,
-        "port": 60500
+        "battery": 125,
+        "glass": 118,
+        "case": 170,
+        "lens": 26620,
+        "port": 105
       },
       "services": {
-        "review": 6000,
-        "clean": 6000
+        "review": 10000,
+        "clean": 10000
       }
     },
     {
@@ -948,7 +949,7 @@
         }
       },
       "parts": {
-        "lens": 5445
+        "lens": 5989
       }
     },
     {
@@ -973,7 +974,7 @@
         }
       },
       "parts": {
-        "lens": 30250
+        "lens": 33275
       }
     },
     {
@@ -998,7 +999,7 @@
         }
       },
       "parts": {
-        "lens": 30250
+        "lens": 33275
       }
     },
     {
@@ -1019,7 +1020,7 @@
         }
       },
       "parts": {
-        "lens": 32670
+        "lens": 35937
       }
     },
     {
@@ -1040,7 +1041,7 @@
         }
       },
       "parts": {
-        "lens": 32670
+        "lens": 35937
       }
     }
   ],
