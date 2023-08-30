@@ -27,7 +27,11 @@
 
 @media (min-width: 1024px) {
   .info > h1 {
-    padding: 0 22rem;
+    padding: 0 15rem;
+  }
+
+  h1 {
+    font-size: 4rem;
   }
 }
 

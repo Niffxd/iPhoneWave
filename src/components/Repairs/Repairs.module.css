@@ -68,11 +68,16 @@
 
 @media (min-width: 768px) {
   .request {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
   }
 }
 
 @media (min-width: 1024px) {
+  .home_content,
+  .icon_title {
+    font-size: 1.5rem;
+  }
+
   .repairs_container {
     width: 100%;
     justify-content: center;
@@ -99,6 +104,11 @@
 }
 
 @media (min-width: 1200px) {
+  .home_container {
+    padding-left: 10rem;
+    padding-right: 10rem;
+  }
+
   .icons_container {
     gap: 4rem;
   }

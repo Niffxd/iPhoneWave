@@ -24,4 +24,8 @@
   .location_container {
     padding: 1rem 5rem 3rem;
   }
+
+  .home_container > h2 {
+    font-size: 2.5rem;
+  }
 }

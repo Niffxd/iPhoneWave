@@ -9,7 +9,7 @@
       },
       {
         "name": "Walden",
-        "description": "Protege tu iPhone con materiales nobles y de máxima calidad para dar vida a un universo de detalles únicos e inimitables.",
+        "description": "Protegé tu iPhone con materiales nobles y de máxima calidad para dar vida a un universo de detalles únicos e inimitables.",
         "image": "/covers/Walden.png"
       },
       {
@@ -24,12 +24,12 @@
     "type": [
       {
         "name": "Cables",
-        "description": "Carga tu iPhone con cables originales y de la mejor calidad",
+        "description": "Cargá tu iPhone con cables originales y de la mejor calidad",
         "image": "/accesories/Lightning.png"
       },
       {
         "name": "Cabezales",
-        "description": "Cuida tu equipo cargándolo con fuentes originales y de excelente calidad",
+        "description": "Cuidá tu equipo cargándolo con fuentes originales y de excelente calidad",
         "image": "/accesories/Source20W.png"
       },
       {
@@ -43,19 +43,19 @@
     "category": "Protecciones",
     "type": [
       {
-        "name": "Templado",
-        "description": "Protege tu iPhone con un templado de máxima calidad y protección.",
-        "image": "/covers/Temp.png"
+        "name": "Hidrogel",
+        "description": "Protegé tu iPhone de cualquier caída o rasguño. Está compuesto por silicona o resina líquida.",
+        "image": "/covers/Hidrogel.png"
       },
       {
         "name": "Templado 9D",
-        "description": "Cubre completamente todos los bordes del celular, el 9D aguanta caídas y rayones.",
+        "description": "Cubrí completamente todos los bordes del celular, el 9D aguanta caídas y rayones.",
         "image": "/covers/Temp9D.png"
       },
       {
-        "name": "Hidrogel",
-        "description": "Protege tu iPhone de cualquier caída o rasguño. Está compuesto por silicona o resina líquida.",
-        "image": "/covers/Hidrogel.png"
+        "name": "Templado",
+        "description": "Una manera económica de cuidar tu pantalla. Con tu cambio de pantalla te llevás uno de regalo.",
+        "image": "/covers/Temp.png"
       }
     ]
   },

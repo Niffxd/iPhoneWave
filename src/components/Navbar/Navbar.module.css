@@ -166,3 +166,9 @@
     margin: 0 .5rem;
   }
 }
+
+@media (min-width: 1500px) {
+  .menu_links > a > li {
+    font-size: 1.2rem;
+  }
+}

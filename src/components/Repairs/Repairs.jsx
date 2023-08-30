@@ -20,7 +20,7 @@ export default function Repairs () {
               (
                 <div key={icon} className={style.home_icon}>
                   <img src={path} alt={icon} width={64}/>
-                  <h4>{text}</h4>
+                  <h4 className={style.icon_title}>{text}</h4>
                 </div>
               );
             })

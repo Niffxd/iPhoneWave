@@ -88,4 +88,12 @@
   .wp {
     width: 50px !important;
   }
+
+  .info_container > h3 {
+    font-size: 1.5rem;
+  }
+
+  .info_container > p {
+    font-size: 1.2rem;
+  }
 }

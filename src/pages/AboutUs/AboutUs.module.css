@@ -15,7 +15,6 @@
 }
 
 .about_us_content > img {
-  width: 100%;
   max-width: 486px;
   max-height: 400px;
   border-radius: 2rem;
@@ -46,5 +45,15 @@
 
   .photo_description {
     max-width: 600px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .photo_description > h2 {
+    font-size: 2.2rem;
+  }
+  
+  .photo_description > p {
+    font-size: 1.4rem;
   }
 }
