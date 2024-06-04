@@ -116,7 +116,7 @@
 
 .warranty_adviser,
 .adviser {
-  margin: 1rem 0;
+  margin: .5rem 0;
   text-align: center;
 }
 
@@ -126,7 +126,7 @@
 
 .change_adviser {
   text-align: center;
-  margin-bottom: 2rem;
+  margin: .5rem 0 2rem;
 }
 
 .more_help {
@@ -142,6 +142,10 @@
   cursor: pointer;
   margin-bottom: 2rem;
   border: 2px solid var(--color-skyblue);
+}
+
+.parts {
+  margin-bottom: 2rem;
 }
 
 @media (min-width: 768px) {
