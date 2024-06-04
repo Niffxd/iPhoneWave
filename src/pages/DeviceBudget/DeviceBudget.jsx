@@ -140,6 +140,9 @@ export default function DeviceBudget ({ loader }) {
                   <h4 className={style.warranty_adviser}>
                     Todos los arreglos cuentan con 90 días de garantia.*
                   </h4>
+                  <h4 className={style.warranty_adviser}>
+                    20 % de descuento abonando en efectivo
+                  </h4>
                   <h4 className={style.change_adviser}>
                     (Consultar cotización del día)
                   </h4>
