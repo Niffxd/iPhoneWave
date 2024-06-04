@@ -133,7 +133,7 @@ export default function DeviceBudget ({ loader }) {
                       device.parts.lens &&
                         <li className={style.parts_item}>
                           <p>Lente de cámara</p>
-                          <p>{new Intl.NumberFormat('de-DE').format(device.parts.lens)} ARS</p>
+                          <p>{new Intl.NumberFormat('de-DE').format(device.parts.lens)} USD</p>
                         </li>
                     }
                   </ul>
