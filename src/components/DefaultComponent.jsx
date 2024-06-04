@@ -27,10 +27,10 @@ export default function DefaultComponent ({ page, logo }) {
     {
       category: 'Contact',
       component: <Contact loader={loader}/>
-    },
-    {
-      category: 'Advices',
-      component: <Advices loader={loader}/>
+    // },
+    // {
+    //   category: 'Advices',
+    //   component: <Advices loader={loader}/>
     }
   ];
 
